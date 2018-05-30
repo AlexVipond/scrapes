@@ -4,601 +4,767 @@
       "label": "2017 Country Specific Impact Report",
       "element type": "Impact",
       "description": "This report provides a detailed breakdown of One Acre Fund's 2017 program impact by country.",
-      "link": "https://oneacrefund.org/documents/299/2017_Country_Specific_Impact_Report.pdf"
+      "link": "https://oneacrefund.org/documents/299/2017_Country_Specific_Impact_Report.pdf",
+      "id": "https://oneacrefund.org/documents/299/2017_Country_Specific_Impact_Report.pdf",
+      "countries": []
     },
     {
       "label": "Challenging Conventional Wisdom on Nonprofit Boards",
       "element type": "Social Enterprise",
       "description": "This article shares our (somewhat counter-intuitive) experiences with our governing board, and how it's composition and function has evolved over time to meet our changing needs and opportunities.",
-      "link": "https://oneacrefund.org/documents/297/Challenging_Conventional_Wisdom_on_Nonprofit_Boards_SSIR_OAF.pdf"
+      "link": "https://oneacrefund.org/documents/297/Challenging_Conventional_Wisdom_on_Nonprofit_Boards_SSIR_OAF.pdf",
+      "id": "https://oneacrefund.org/documents/297/Challenging_Conventional_Wisdom_on_Nonprofit_Boards_SSIR_OAF.pdf",
+      "countries": []
     },
     {
       "label": "Kenya 2017 Long Rains Yield Gap Analysis",
       "element type": "Agricultural Innovation",
       "description": "This report from One Acre Fund's Agricultural Research Team presents progress to date in analyzing yield gaps in Kenya, using data from the 2017 long rains season.",
-      "link": "https://oneacrefund.org/documents/296/Kenya_2017LR_Yield_Gap_Analysis_v1.pdf"
+      "link": "https://oneacrefund.org/documents/296/Kenya_2017LR_Yield_Gap_Analysis_v1.pdf",
+      "id": "https://oneacrefund.org/documents/296/Kenya_2017LR_Yield_Gap_Analysis_v1.pdf",
+      "countries": []
     },
     {
       "label": "Finding The Best Fit – One Acre Fund’s integration of digital tools in Kenya (USAID)",
       "element type": "Agricultural Innovation",
       "description": "This USAID case study highlights One Acre Fund's approach to digital integration, particularly in Kenya. It reviews the impact of digital tools on the organization’s operations &amp; staff, and offers lessons learned about its digital integration experience.",
-      "link": "https://oneacrefund.org/documents/285/Finding_The_Best_Fit_USAID_One_Acre_Fund.pdf"
+      "link": "https://oneacrefund.org/documents/285/Finding_The_Best_Fit_USAID_One_Acre_Fund.pdf",
+      "id": "https://oneacrefund.org/documents/285/Finding_The_Best_Fit_USAID_One_Acre_Fund.pdf",
+      "countries": []
     },
     {
       "label": "2016 Country Specific Impact Report",
       "element type": "Impact",
       "description": "This report provides a detailed breakdown of One Acre Fund's 2016 program impact by country.",
-      "link": "https://oneacrefund.org/documents/274/2016_Country_Specific_Impact_Report.pdf"
+      "link": "https://oneacrefund.org/documents/274/2016_Country_Specific_Impact_Report.pdf",
+      "id": "https://oneacrefund.org/documents/274/2016_Country_Specific_Impact_Report.pdf",
+      "countries": []
     },
     {
       "label": "Financial Sustainability 2.0: A Means to an End",
       "element type": "Social Enterprise",
       "description": "During the last two years (as of this writing), One Acre Fund’s thinking on financial sustainability has evolved. In this white paper, we explain the factors that have driven this change and our latest thinking on this important topic.",
-      "link": "https://oneacrefund.org/documents/273/Financial_Sustainability_One_Acre_Fund.pdf"
+      "link": "https://oneacrefund.org/documents/273/Financial_Sustainability_One_Acre_Fund.pdf",
+      "id": "https://oneacrefund.org/documents/273/Financial_Sustainability_One_Acre_Fund.pdf",
+      "countries": []
     },
     {
       "label": "Actionable Measurement: Getting from “Prove” to “Improve”",
       "element type": "Impact",
       "description": "This article explores why we strongly believe that if nonprofits focused on answering and adjusting their models based on four key questions, we’d see a considerable boost in the social good our sector creates.",
-      "link": "https://oneacrefund.org/documents/272/Actionable_Measurement_Getting_from_Prove_to_Improve.pdf"
+      "link": "https://oneacrefund.org/documents/272/Actionable_Measurement_Getting_from_Prove_to_Improve.pdf",
+      "id": "https://oneacrefund.org/documents/272/Actionable_Measurement_Getting_from_Prove_to_Improve.pdf",
+      "countries": []
     },
     {
       "label": "How Nonprofits Can Drive Healthy Growth Using SROI",
       "element type": "Impact",
       "description": "This article explores why we believe social return on investment is an underutilized yet surprisingly flexible tool for making strong resource allocation decisions that maximize nonprofit impact.",
-      "link": "https://oneacrefund.org/documents/271/How_Nonprofits_Can_Drive_Healthy_Growth_Using_SROI.pdf"
+      "link": "https://oneacrefund.org/documents/271/How_Nonprofits_Can_Drive_Healthy_Growth_Using_SROI.pdf",
+      "id": "https://oneacrefund.org/documents/271/How_Nonprofits_Can_Drive_Healthy_Growth_Using_SROI.pdf",
+      "countries": []
     },
     {
       "label": "Reinventing Foreign Aid: Commonsense Proposals For More Efficiency and Impact",
       "element type": "Impact",
       "description": "As an active partner with the U.S. government, One Acre Fund believes that foreign aid must be designed to maximize impact and value for money for taxpayers, while submitting to rigorous evaluation.",
-      "link": "https://oneacrefund.org/documents/270/ForeignAid_PolicyBrief_FINAL_r1.pdf"
+      "link": "https://oneacrefund.org/documents/270/ForeignAid_PolicyBrief_FINAL_r1.pdf",
+      "id": "https://oneacrefund.org/documents/270/ForeignAid_PolicyBrief_FINAL_r1.pdf",
+      "countries": []
     },
     {
       "label": "Quality of Life Study in Kenya and Rwanda: Year 1 Results",
       "element type": "Impact",
       "description": "This report summarizes the results from 2 years of data collection which examine the impact of One Acre Fund program participation on farmers' quality of life.",
-      "link": "https://oneacrefund.org/documents/268/Quality_of_Life_Report_RW_KE_2016_Final.pdf"
+      "link": "https://oneacrefund.org/documents/268/Quality_of_Life_Report_RW_KE_2016_Final.pdf",
+      "id": "https://oneacrefund.org/documents/268/Quality_of_Life_Report_RW_KE_2016_Final.pdf",
+      "countries": [
+        "Kenya",
+        "Rwanda"
+      ]
     },
     {
       "label": "2014 Country Specific Impact Report",
       "element type": "Impact",
       "description": "This report provides a detailed breakdown of One Acre Fund's 2014 program impact by country.",
-      "link": "https://oneacrefund.org/documents/196/Country_Impact_Report_2014.pdf"
+      "link": "https://oneacrefund.org/documents/196/Country_Impact_Report_2014.pdf",
+      "id": "https://oneacrefund.org/documents/196/Country_Impact_Report_2014.pdf",
+      "countries": []
     },
     {
       "label": "Smallholder Farmers and Business: 15 pioneering collaborations for improved productivity and sustainability",
       "element type": "Social Enterprise",
       "description": "This report shows how pioneer companies and organizations have sustainably increased the income and livelihoods of millions of smallholder farmers around the world.",
-      "link": "https://oneacrefund.org/documents/144/Smallholder_Farmers_and_Business_Hystra_Report.pdf"
+      "link": "https://oneacrefund.org/documents/144/Smallholder_Farmers_and_Business_Hystra_Report.pdf",
+      "id": "https://oneacrefund.org/documents/144/Smallholder_Farmers_and_Business_Hystra_Report.pdf",
+      "countries": []
     },
     {
       "label": "Whats Your Exit...Er Commitment Strategy?",
       "element type": "Social Enterprise",
       "description": "Originally published by the Stanford Social Innovation Review, this article delves into the conditions under which nonprofits will find commitment strategies—rather than exit strategies—may be the right answer for their direct service programs.",
-      "link": "https://oneacrefund.org/documents/125/Whats_Your_Exit_Er_Commitment_Strategy_One_Acre_Fund_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/125/Whats_Your_Exit_Er_Commitment_Strategy_One_Acre_Fund_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/125/Whats_Your_Exit_Er_Commitment_Strategy_One_Acre_Fund_Social_Enterprise.pdf",
+      "countries": []
     },
     {
       "label": "Ending Hunger in Africa",
       "element type": "Social Enterprise",
       "description": "Why is solving the challenge of distribution bottlenecks key to successfully disseminating life-changing interventions to smallholder farmers? By Andrew Youn, originally published The Art &amp; Science of Delivery, a report produced by McKinsey &amp; Company.",
-      "link": "https://oneacrefund.org/documents/126/Ending_Hunger_In_Africa_Andrew_Youn_Driving_Financial_Sustainability_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/126/Ending_Hunger_In_Africa_Andrew_Youn_Driving_Financial_Sustainability_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/126/Ending_Hunger_In_Africa_Andrew_Youn_Driving_Financial_Sustainability_Social_Enterprise.pdf",
+      "countries": []
     },
     {
       "label": "Scale Innovations",
       "element type": "Social Enterprise",
       "description": "Our scale innovations team is like an R&amp;D lab for operational improvements to the way One Acre Fund reaches farmers. This white paper discusses the team's unique approach and reviews several scale innovations trials.",
-      "link": "https://oneacrefund.org/documents/122/Scale_Innovations_One_Acre_Fund_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/122/Scale_Innovations_One_Acre_Fund_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/122/Scale_Innovations_One_Acre_Fund_Social_Enterprise.pdf",
+      "countries": []
     },
     {
       "label": "Professional Development of Field Staff",
       "element type": "Social Enterprise",
       "description": "Field staff are crucial to One Acre Fund's future growth, and are the focus of extensive professional development efforts. This white paper delves into One Acre Fund's field staff development philosophy and strategy.",
-      "link": "https://oneacrefund.org/documents/121/Professional_Development_of_Field_Staff_One_Acre_Fund_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/121/Professional_Development_of_Field_Staff_One_Acre_Fund_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/121/Professional_Development_of_Field_Staff_One_Acre_Fund_Social_Enterprise.pdf",
+      "countries": []
     },
     {
       "label": "Measuring to Improve vs. Improving Measurement",
       "element type": "Social Enterprise",
       "description": "Originally published by the Stanford Social Innovation Review, this article explores — and challenges — how social sector organizations have traditionally approached the paradigm of impact measurement.",
-      "link": "https://oneacrefund.org/documents/120/Measuring_to_Improve_vs_Improving_Measurement_One_Acre_Fund_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/120/Measuring_to_Improve_vs_Improving_Measurement_One_Acre_Fund_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/120/Measuring_to_Improve_vs_Improving_Measurement_One_Acre_Fund_Social_Enterprise.pdf",
+      "countries": []
     },
     {
       "label": "To Serve the Poorest Clients, Earned Income Isn’t Enough",
       "element type": "Social Enterprise",
       "description": "This articles discusses the tensions between pursuing high social impact while attempting to focus on a bottom line. By Matt Forti and Stephanie Hanson, originally published by the Harvard Business Review blog.",
-      "link": "https://oneacrefund.org/documents/118/Harvard_Biz_Rev_To_Serve_the_Poorest_Clients_One_Acre_Fund_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/118/Harvard_Biz_Rev_To_Serve_the_Poorest_Clients_One_Acre_Fund_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/118/Harvard_Biz_Rev_To_Serve_the_Poorest_Clients_One_Acre_Fund_Social_Enterprise.pdf",
+      "countries": []
     },
     {
       "label": "Growing Prosperity: Developing Repeatable Models to Scale the Adoption of Agricultural Innovations",
       "element type": "Social Enterprise",
       "description": "This excerpt of the 2014 report by Bain &amp; Company and Acumen features a case study of One Acre Fund's model and outlines what is needed to spur the large-scale adoption of agricultural innovations among smallholder farmers.",
-      "link": "https://oneacrefund.org/documents/117/Growing_Prosperity_Bain_Report_One_Acre_Fund_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/117/Growing_Prosperity_Bain_Report_One_Acre_Fund_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/117/Growing_Prosperity_Bain_Report_One_Acre_Fund_Social_Enterprise.pdf",
+      "countries": []
     },
     {
       "label": "Driving Financial Sustainability",
       "element type": "Social Enterprise",
       "description": "As a direct service organization, One Acre Fund sees the pursuit of financial sustainability as integral to achieving its mission of transformative social impact. This white paper explains our approach to pursuing financial sustainability.",
-      "link": "https://oneacrefund.org/documents/116/Driving_Financial_Sustainability_One_Acre_Fund_Social_Enterprise.pdf"
+      "link": "https://oneacrefund.org/documents/116/Driving_Financial_Sustainability_One_Acre_Fund_Social_Enterprise.pdf",
+      "id": "https://oneacrefund.org/documents/116/Driving_Financial_Sustainability_One_Acre_Fund_Social_Enterprise.pdf",
+      "countries": []
     },
     {
-      "label": "2017 Country Specific Impact Report",
+      "label": "When Less Impact Per Client = Greater Social Good",
       "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2017 program impact by country.",
-      "link": "https://oneacrefund.org/documents/299/2017_Country_Specific_Impact_Report.pdf"
+      "description": "Originally published by the Stanford Social Innovation Review, this article by Matt Forti explains why mission-driven organizations need a more nuanced understanding of why and how impact may fluctuate over time.",
+      "link": "https://oneacrefund.org/documents/115/When_Less_Impact_Equals_Greater_Social_Good_Impact.pdf",
+      "id": "https://oneacrefund.org/documents/115/When_Less_Impact_Equals_Greater_Social_Good_Impact.pdf",
+      "countries": []
     },
     {
-      "label": "Challenging Conventional Wisdom on Nonprofit Boards",
-      "element type": "Social Enterprise",
-      "description": "This article shares our (somewhat counter-intuitive) experiences with our governing board, and how it's composition and function has evolved over time to meet our changing needs and opportunities.",
-      "link": "https://oneacrefund.org/documents/297/Challenging_Conventional_Wisdom_on_Nonprofit_Boards_SSIR_OAF.pdf"
+      "label": "Social Good = Scale x Impact (Who Knew?)",
+      "element type": "Impact",
+      "description": "Originally published by the Stanford Social Innovation Review, this article explores why nonprofits and academics should focus on scale and impact when developing and evaluating direct service interventions. By Andrew Youn and Matt Forti.",
+      "link": "https://oneacrefund.org/documents/113/Social_Good_equals_Scale_x_Impact_Stanford_Social_Innovation_Review_Impact.pdf",
+      "id": "https://oneacrefund.org/documents/113/Social_Good_equals_Scale_x_Impact_Stanford_Social_Innovation_Review_Impact.pdf",
+      "countries": []
     },
     {
-      "label": "Kenya 2017 Long Rains Yield Gap Analysis",
+      "label": "Measuring Social Return on Investment Before You Invest",
+      "element type": "Impact",
+      "description": "Originally published by the Stanford Social Innovation Review, this article explores how using a social return on investment framework can allow nonprofits to better estimate the future impact, cost, and scale of programs before they begin.",
+      "link": "https://oneacrefund.org/documents/112/Measuring_Social_Return_on_Investment_Before_You_Invest_SSIR_One_Acre_Fund_Impact.pdf",
+      "id": "https://oneacrefund.org/documents/112/Measuring_Social_Return_on_Investment_Before_You_Invest_SSIR_One_Acre_Fund_Impact.pdf",
+      "countries": []
+    },
+    {
+      "label": "Measuring Farm Profit",
+      "element type": "Impact",
+      "description": "At One Acre Fund, we’ve found that measuring farm profit is surprisingly complicated, requiring a number of important assumptions. The purpose of this paper is to outline the major assumptions we have made and the rationale behind those assumptions.",
+      "link": "https://oneacrefund.org/documents/111/Measuring_Farm_Profit_White_Paper_Impact.pdf",
+      "id": "https://oneacrefund.org/documents/111/Measuring_Farm_Profit_White_Paper_Impact.pdf",
+      "countries": [
+        "Burundi",
+        "Kenya",
+        "Rwanda",
+        "Tanzania"
+      ]
+    },
+    {
+      "label": "One Acre Fund Impact and M&amp;E Strategy",
+      "element type": "Impact",
+      "description": "This strategy memo explains how One Acre Fund uses impact measurement to prioritize the highest impact products, phase out low-impact offerings, and constantly improve the products and services we offer.",
+      "link": "https://oneacrefund.org/documents/110/Impact_Methodology_One_Acre_Fund_Impact.pdf",
+      "id": "https://oneacrefund.org/documents/110/Impact_Methodology_One_Acre_Fund_Impact.pdf",
+      "countries": []
+    },
+    {
+      "label": "2015 Country Specific Impact Report",
+      "element type": "Impact",
+      "description": "This report provides a detailed breakdown of One Acre Fund's 2015 program impact by country.",
+      "link": "https://oneacrefund.org/documents/108/Country_Impact_Report_One_Acre_Fund_2015.pdf",
+      "id": "https://oneacrefund.org/documents/108/Country_Impact_Report_One_Acre_Fund_2015.pdf",
+      "countries": [
+        "Burundi",
+        "Kenya",
+        "Rwanda",
+        "Tanzania"
+      ]
+    },
+    {
+      "label": "Getting the Counterfactual Right",
+      "element type": "Impact",
+      "description": "In this memo, we share our experience addressing selection bias through experimenting with four different approaches: propensity score matching, randomized control trials, newly enrolled farmers, and difference-in-difference.",
+      "link": "https://oneacrefund.org/documents/107/Briefing_Getting_the_Counterfactual_Right_One_Acre_Fund_Impact.pdf",
+      "id": "https://oneacrefund.org/documents/107/Briefing_Getting_the_Counterfactual_Right_One_Acre_Fund_Impact.pdf",
+      "countries": []
+    },
+    {
+      "label": "What to Read on Agriculture Microfinance",
+      "element type": "Farm Finance",
+      "description": "Stephanie Hanson &amp; Mike Warmington characterize the market opportunity for farm microfinance through a discussion of relevant books, videos, &amp; papers. This article was originally published in 2014 by the Financial Access Initiative at New York University.",
+      "link": "https://oneacrefund.org/documents/106/What_to_Read_on_Agriculture_Microfinance_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/106/What_to_Read_on_Agriculture_Microfinance_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "The Case for Farm Finance",
+      "element type": "Farm Finance",
+      "description": "This report emphasizes the importance of addressing the unmet global demand for smallholder finance. The piece posits that there are two main narratives that explain the financing gap for smallholders.",
+      "link": "https://oneacrefund.org/documents/105/The_Case_for_Farm_Finance_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/105/The_Case_for_Farm_Finance_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "Scaling Up Agriculture Credit in Africa",
+      "element type": "Farm Finance",
+      "description": "The briefing provides a snapshot of the current lending landscape and the inadequate level of available finance, discusses current successful models and the organizations leading them, and highlights the common principles these models use.",
+      "link": "https://oneacrefund.org/documents/104/Scaling_Up_Agricultural_Credit_In_Africa_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/104/Scaling_Up_Agricultural_Credit_In_Africa_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "How Direct to Farmer Finance Providers Reach Smallholders",
+      "element type": "Farm Finance",
+      "description": "The vast majority of smallholder farmers are financially underserved. Providing these smallholders with access to appropriately structured financial products and services can help bridge the smallholder finance gap and, in turn, combat extreme poverty.",
+      "link": "https://oneacrefund.org/documents/103/How_Direct_to_Farmer_Finance_Providers_Reach_Smallholders_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/103/How_Direct_to_Farmer_Finance_Providers_Reach_Smallholders_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "Flexible Repayment at One Acre Fund",
+      "element type": "Farm Finance",
+      "description": "One Acre Fund farmers enjoy flexible repayment, meaning they can repay their loans at their own pace. This white paper explains how flexible repayment is a model that addresses the unique financial needs of smallholder farmers.",
+      "link": "https://oneacrefund.org/documents/102/Flexible_Repayment_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/102/Flexible_Repayment_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "Catalyzing Smallholder Agricultural Finance",
+      "element type": "Farm Finance",
+      "description": "Sponsored by Citi Foundation and Skoll Foundation, this 2012 report by Dalberg Global Development Associates reviews strategies for enhancing smallholder farmer finance.",
+      "link": "https://oneacrefund.org/documents/101/Dalberg_Skoll_Citi_Catalyzing_Smallholder_Agricultural_Finance_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/101/Dalberg_Skoll_Citi_Catalyzing_Smallholder_Agricultural_Finance_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "Using a Bundled Approach to Increase Productivity in the AU’s Year of Agriculture",
+      "element type": "Farm Finance",
+      "description": "Stephanie Hanson and Laurence Dare highlight how, in serving smallholder farmers, increased access to farm microfinance must be complemented by a full value chain approach. Originally published by Brookings Africa in Focus blog.",
+      "link": "https://oneacrefund.org/documents/100/Brookings_Africa_In_Focus_Blog_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/100/Brookings_Africa_In_Focus_Blog_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "Asset Financing at One Acre Fund",
+      "element type": "Farm Finance",
+      "description": "One Acre Fund has created a loan product that fits the needs of smallholder farmers. We provide tangible goods to our clients, rather than cash. This white paper outlines the key features of our asset-finance model.",
+      "link": "https://oneacrefund.org/documents/98/Asset_Financing_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/98/Asset_Financing_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "Small and Growing: Entrepreneurship in African Agriculture",
+      "element type": "Farm Finance",
+      "description": "Produced by Agriculture for Impact and the Montpellier Panel, this 2014 report promotes investment in rural and food sector entrepreneurship in Africa.",
+      "link": "https://oneacrefund.org/documents/97/Ag4Impact_Small_and_Growing_Montpellier_Farm_Finance.pdf",
+      "id": "https://oneacrefund.org/documents/97/Ag4Impact_Small_and_Growing_Montpellier_Farm_Finance.pdf",
+      "countries": []
+    },
+    {
+      "label": "Lessons from One Acre Fund’s First Uganda Pilot",
+      "element type": "Failures",
+      "description": "In 2008, One Acre Fund launched a pilot program in eastern Uganda, our first pilot outside of Kenya. This white paper explores the lessons learned from this unsuccessful new country expansion effort that lasted just two years.",
+      "link": "https://oneacrefund.org/documents/96/Uganda_Pilot_Failures_One_Acre_Fund_Failures.pdf",
+      "id": "https://oneacrefund.org/documents/96/Uganda_Pilot_Failures_One_Acre_Fund_Failures.pdf",
+      "countries": [
+        "Uganda"
+      ]
+    },
+    {
+      "label": "Rolling Distribution in Rwanda",
+      "element type": "Failures",
+      "description": "When we launched in Rwanda in 2007, we adopted a rolling distribution method to deliver inputs to clients to accommodate the unique challenges of the new operating environment. We maintained rolling distribution there for seven years before changing.",
+      "link": "https://oneacrefund.org/documents/95/Rolling_Distribution_Failures_One_Acre_Fund_Failures.pdf",
+      "id": "https://oneacrefund.org/documents/95/Rolling_Distribution_Failures_One_Acre_Fund_Failures.pdf",
+      "countries": [
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "Maize as Payment in Kenya",
+      "element type": "Failures",
+      "description": "In 2007 and 2008, One Acre Fund farmers in Kenya repaid their loans using their maize harvest. This white paper explains why this program was unsuccessful, and what we learned for the future.",
+      "link": "https://oneacrefund.org/documents/94/Maize_as_Payment_in_Kenya_Failures.pdf",
+      "id": "https://oneacrefund.org/documents/94/Maize_as_Payment_in_Kenya_Failures.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Larger Group Size in Rwanda",
+      "element type": "Failures",
+      "description": "One Acre Fund serves farmers as part of a group lending model. In an effort to increase the number of clients served, in 2011 we tested several different strategies to increase group size. This white paper explains why this trial was unsuccessful.",
+      "link": "https://oneacrefund.org/documents/93/Larger_Group_Size_in_Rwanda_One_Acre_Fund_Failures.pdf",
+      "id": "https://oneacrefund.org/documents/93/Larger_Group_Size_in_Rwanda_One_Acre_Fund_Failures.pdf",
+      "countries": [
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "Unsuccessful Scale-Up: Bean Buyback in Western Rwanda",
+      "element type": "Failures",
+      "description": "In 2009 and 2010, One Acre Fund offered to purchase beans at above-market prices from farmers in Nyamasheke District, Rwanda. This white paper explores why the bean buyback trial was not successful.",
+      "link": "https://oneacrefund.org/documents/92/Harvest_Buyback_Program_Failures.pdf",
+      "id": "https://oneacrefund.org/documents/92/Harvest_Buyback_Program_Failures.pdf",
+      "countries": [
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "A Learning Experience: One Acre Fund Ghana Pilot",
+      "element type": "Failures",
+      "description": "In 2010, One Acre Fund scouted and launched a pilot program in southern Ghana. The program was concluded after the 2013 season. This white paper explores lessons learned from this unsuccessful new country expansion effort.",
+      "link": "https://oneacrefund.org/documents/91/Ghana_Pilot_One_Acre_Fund_Failures.pdf",
+      "id": "https://oneacrefund.org/documents/91/Ghana_Pilot_One_Acre_Fund_Failures.pdf",
+      "countries": []
+    },
+    {
+      "label": "Government Services at One Acre Fund",
+      "element type": "Agricultural Policy",
+      "description": "Alan Harlam and Barrett Hazeltine of Brown University trace the development One Acre Fund's strategy of working with African governments to deliver inputs, marketing services, and trainings to rural smallholder farmers in East Africa.",
+      "link": "https://oneacrefund.org/documents/90/One_Acre_Fund_Case_Study_Government_Services_Ag_Policy.pdf",
+      "id": "https://oneacrefund.org/documents/90/One_Acre_Fund_Case_Study_Government_Services_Ag_Policy.pdf",
+      "countries": []
+    },
+    {
+      "label": "House Subcommittee Hearing: Food Security and Nutrition Programs in Africa",
+      "element type": "Agricultural Policy",
+      "description": "One Acre Fund testified before the U.S. House Foreign Affairs Committee Subcommittee on Africa, Global Health, Global Human Rights, and International Organizations, calling attention to the role of smallholder farmers in the fight to end global poverty.",
+      "link": "https://oneacrefund.org/documents/89/Food_Security_and_Nutrition_Programs_in_Africa_Ag_Policy.pdf",
+      "id": "https://oneacrefund.org/documents/89/Food_Security_and_Nutrition_Programs_in_Africa_Ag_Policy.pdf",
+      "countries": []
+    },
+    {
+      "label": "Effective Methods for Engaging Local Government",
+      "element type": "Agricultural Policy",
+      "description": "One Acre Fund has come to realize the value of a comprehensive approach to engaging local government in East Africa. This white paper offers key insights into our approach to working with local governments.",
+      "link": "https://oneacrefund.org/documents/88/Effective_Tools_for_Engaging_Local_Government_Ag_Policy.pdf",
+      "id": "https://oneacrefund.org/documents/88/Effective_Tools_for_Engaging_Local_Government_Ag_Policy.pdf",
+      "countries": []
+    },
+    {
+      "label": "Creating Structures to Engage Policymakers in East Africa",
+      "element type": "Agricultural Policy",
+      "description": "In this white paper, One Acre Fund offers recommendations on policy advocacy strategies that carefully consider the unique political ecosystems in East Africa.",
+      "link": "https://oneacrefund.org/documents/87/Creating_Structures_to_Engage_Policymakers_in_East_Africa_Ag_Policy.pdf",
+      "id": "https://oneacrefund.org/documents/87/Creating_Structures_to_Engage_Policymakers_in_East_Africa_Ag_Policy.pdf",
+      "countries": []
+    },
+    {
+      "label": "Soybean — Long Rain Season, Kenya and Rwanda (2014)",
       "element type": "Agricultural Innovation",
-      "description": "This report from One Acre Fund's Agricultural Research Team presents progress to date in analyzing yield gaps in Kenya, using data from the 2017 long rains season.",
-      "link": "https://oneacrefund.org/documents/296/Kenya_2017LR_Yield_Gap_Analysis_v1.pdf"
+      "description": "Soybean offers several advantages over common bean, including greater nitrogen fixation potential. This white paper reviews the outcomes of One Acre Fund's soybean trials in Kenya and Rwanda.",
+      "link": "https://oneacrefund.org/documents/86/Soybean_Intercrop_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/86/Soybean_Intercrop_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya",
+        "Rwanda"
+      ]
     },
     {
-      "label": "Finding The Best Fit – One Acre Fund’s integration of digital tools in Kenya (USAID)",
+      "label": "Soybean and Rhizobium— 2015B Season, Rwanda",
       "element type": "Agricultural Innovation",
-      "description": "This USAID case study highlights One Acre Fund's approach to digital integration, particularly in Kenya. It reviews the impact of digital tools on the organization’s operations &amp; staff, and offers lessons learned about its digital integration experience.",
-      "link": "https://oneacrefund.org/documents/285/Finding_The_Best_Fit_USAID_One_Acre_Fund.pdf"
+      "description": "Research shows that with proper agronomy and soil fertility management, soybean is highly productive and has a greater nitrogen fixation potential than common beans. This trial report summarizes the findings and next steps from our 2015B season trial.",
+      "link": "https://oneacrefund.org/documents/85/Soybean_and_Rhizobium_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/85/Soybean_and_Rhizobium_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
     },
     {
-      "label": "2016 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2016 program impact by country.",
-      "link": "https://oneacrefund.org/documents/274/2016_Country_Specific_Impact_Report.pdf"
-    },
-    {
-      "label": "Financial Sustainability 2.0: A Means to an End",
-      "element type": "Social Enterprise",
-      "description": "During the last two years (as of this writing), One Acre Fund’s thinking on financial sustainability has evolved. In this white paper, we explain the factors that have driven this change and our latest thinking on this important topic.",
-      "link": "https://oneacrefund.org/documents/273/Financial_Sustainability_One_Acre_Fund.pdf"
-    },
-    {
-      "label": "Actionable Measurement: Getting from “Prove” to “Improve”",
-      "element type": "Impact",
-      "description": "This article explores why we strongly believe that if nonprofits focused on answering and adjusting their models based on four key questions, we’d see a considerable boost in the social good our sector creates.",
-      "link": "https://oneacrefund.org/documents/272/Actionable_Measurement_Getting_from_Prove_to_Improve.pdf"
-    },
-    {
-      "label": "How Nonprofits Can Drive Healthy Growth Using SROI",
-      "element type": "Impact",
-      "description": "This article explores why we believe social return on investment is an underutilized yet surprisingly flexible tool for making strong resource allocation decisions that maximize nonprofit impact.",
-      "link": "https://oneacrefund.org/documents/271/How_Nonprofits_Can_Drive_Healthy_Growth_Using_SROI.pdf"
-    },
-    {
-      "label": "Reinventing Foreign Aid: Commonsense Proposals For More Efficiency and Impact",
-      "element type": "Impact",
-      "description": "As an active partner with the U.S. government, One Acre Fund believes that foreign aid must be designed to maximize impact and value for money for taxpayers, while submitting to rigorous evaluation.",
-      "link": "https://oneacrefund.org/documents/270/ForeignAid_PolicyBrief_FINAL_r1.pdf"
-    },
-    {
-      "label": "Quality of Life Study in Kenya and Rwanda: Year 1 Results",
-      "element type": "Impact",
-      "description": "This report summarizes the results from 2 years of data collection which examine the impact of One Acre Fund program participation on farmers' quality of life.",
-      "link": "https://oneacrefund.org/documents/268/Quality_of_Life_Report_RW_KE_2016_Final.pdf"
-    },
-    {
-      "label": "2014 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2014 program impact by country.",
-      "link": "https://oneacrefund.org/documents/196/Country_Impact_Report_2014.pdf"
-    },
-    {
-      "label": "Smallholder Farmers and Business: 15 pioneering collaborations for improved productivity and sustainability",
-      "element type": "Social Enterprise",
-      "description": "This report shows how pioneer companies and organizations have sustainably increased the income and livelihoods of millions of smallholder farmers around the world.",
-      "link": "https://oneacrefund.org/documents/144/Smallholder_Farmers_and_Business_Hystra_Report.pdf"
-    },
-    {
-      "label": "Whats Your Exit...Er Commitment Strategy?",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article delves into the conditions under which nonprofits will find commitment strategies—rather than exit strategies—may be the right answer for their direct service programs.",
-      "link": "https://oneacrefund.org/documents/125/Whats_Your_Exit_Er_Commitment_Strategy_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Ending Hunger in Africa",
-      "element type": "Social Enterprise",
-      "description": "Why is solving the challenge of distribution bottlenecks key to successfully disseminating life-changing interventions to smallholder farmers? By Andrew Youn, originally published The Art &amp; Science of Delivery, a report produced by McKinsey &amp; Company.",
-      "link": "https://oneacrefund.org/documents/126/Ending_Hunger_In_Africa_Andrew_Youn_Driving_Financial_Sustainability_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Scale Innovations",
-      "element type": "Social Enterprise",
-      "description": "Our scale innovations team is like an R&amp;D lab for operational improvements to the way One Acre Fund reaches farmers. This white paper discusses the team's unique approach and reviews several scale innovations trials.",
-      "link": "https://oneacrefund.org/documents/122/Scale_Innovations_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Professional Development of Field Staff",
-      "element type": "Social Enterprise",
-      "description": "Field staff are crucial to One Acre Fund's future growth, and are the focus of extensive professional development efforts. This white paper delves into One Acre Fund's field staff development philosophy and strategy.",
-      "link": "https://oneacrefund.org/documents/121/Professional_Development_of_Field_Staff_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Measuring to Improve vs. Improving Measurement",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article explores — and challenges — how social sector organizations have traditionally approached the paradigm of impact measurement.",
-      "link": "https://oneacrefund.org/documents/120/Measuring_to_Improve_vs_Improving_Measurement_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "To Serve the Poorest Clients, Earned Income Isn’t Enough",
-      "element type": "Social Enterprise",
-      "description": "This articles discusses the tensions between pursuing high social impact while attempting to focus on a bottom line. By Matt Forti and Stephanie Hanson, originally published by the Harvard Business Review blog.",
-      "link": "https://oneacrefund.org/documents/118/Harvard_Biz_Rev_To_Serve_the_Poorest_Clients_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Growing Prosperity: Developing Repeatable Models to Scale the Adoption of Agricultural Innovations",
-      "element type": "Social Enterprise",
-      "description": "This excerpt of the 2014 report by Bain &amp; Company and Acumen features a case study of One Acre Fund's model and outlines what is needed to spur the large-scale adoption of agricultural innovations among smallholder farmers.",
-      "link": "https://oneacrefund.org/documents/117/Growing_Prosperity_Bain_Report_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Driving Financial Sustainability",
-      "element type": "Social Enterprise",
-      "description": "As a direct service organization, One Acre Fund sees the pursuit of financial sustainability as integral to achieving its mission of transformative social impact. This white paper explains our approach to pursuing financial sustainability.",
-      "link": "https://oneacrefund.org/documents/116/Driving_Financial_Sustainability_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "2017 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2017 program impact by country.",
-      "link": "https://oneacrefund.org/documents/299/2017_Country_Specific_Impact_Report.pdf"
-    },
-    {
-      "label": "Challenging Conventional Wisdom on Nonprofit Boards",
-      "element type": "Social Enterprise",
-      "description": "This article shares our (somewhat counter-intuitive) experiences with our governing board, and how it's composition and function has evolved over time to meet our changing needs and opportunities.",
-      "link": "https://oneacrefund.org/documents/297/Challenging_Conventional_Wisdom_on_Nonprofit_Boards_SSIR_OAF.pdf"
-    },
-    {
-      "label": "Kenya 2017 Long Rains Yield Gap Analysis",
+      "label": "Sorghum Fertilizer and Planting Methods",
       "element type": "Agricultural Innovation",
-      "description": "This report from One Acre Fund's Agricultural Research Team presents progress to date in analyzing yield gaps in Kenya, using data from the 2017 long rains season.",
-      "link": "https://oneacrefund.org/documents/296/Kenya_2017LR_Yield_Gap_Analysis_v1.pdf"
+      "description": "Sorghum is a regionally important crop in the drier parts of Rwanda. This trial determined the effect of using recommended One Acre Fund planting methods and fertilizer on yields and profits, compared with local planting practices across three zones.",
+      "link": "https://oneacrefund.org/documents/84/Sorghum_Fertilizer_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/84/Sorghum_Fertilizer_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
     },
     {
-      "label": "Finding The Best Fit – One Acre Fund’s integration of digital tools in Kenya (USAID)",
+      "label": "Scaling Orange Fleshed Sweet Potatoes",
       "element type": "Agricultural Innovation",
-      "description": "This USAID case study highlights One Acre Fund's approach to digital integration, particularly in Kenya. It reviews the impact of digital tools on the organization’s operations &amp; staff, and offers lessons learned about its digital integration experience.",
-      "link": "https://oneacrefund.org/documents/285/Finding_The_Best_Fit_USAID_One_Acre_Fund.pdf"
+      "description": "This trial evaluated several orange-fleshed sweet potato varieties for yield and farmer preference in different agro-ecological zones.",
+      "link": "https://oneacrefund.org/documents/83/Scaling_OFSP_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/83/Scaling_OFSP_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
     },
     {
-      "label": "2016 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2016 program impact by country.",
-      "link": "https://oneacrefund.org/documents/274/2016_Country_Specific_Impact_Report.pdf"
-    },
-    {
-      "label": "Financial Sustainability 2.0: A Means to an End",
-      "element type": "Social Enterprise",
-      "description": "During the last two years (as of this writing), One Acre Fund’s thinking on financial sustainability has evolved. In this white paper, we explain the factors that have driven this change and our latest thinking on this important topic.",
-      "link": "https://oneacrefund.org/documents/273/Financial_Sustainability_One_Acre_Fund.pdf"
-    },
-    {
-      "label": "Actionable Measurement: Getting from “Prove” to “Improve”",
-      "element type": "Impact",
-      "description": "This article explores why we strongly believe that if nonprofits focused on answering and adjusting their models based on four key questions, we’d see a considerable boost in the social good our sector creates.",
-      "link": "https://oneacrefund.org/documents/272/Actionable_Measurement_Getting_from_Prove_to_Improve.pdf"
-    },
-    {
-      "label": "How Nonprofits Can Drive Healthy Growth Using SROI",
-      "element type": "Impact",
-      "description": "This article explores why we believe social return on investment is an underutilized yet surprisingly flexible tool for making strong resource allocation decisions that maximize nonprofit impact.",
-      "link": "https://oneacrefund.org/documents/271/How_Nonprofits_Can_Drive_Healthy_Growth_Using_SROI.pdf"
-    },
-    {
-      "label": "Reinventing Foreign Aid: Commonsense Proposals For More Efficiency and Impact",
-      "element type": "Impact",
-      "description": "As an active partner with the U.S. government, One Acre Fund believes that foreign aid must be designed to maximize impact and value for money for taxpayers, while submitting to rigorous evaluation.",
-      "link": "https://oneacrefund.org/documents/270/ForeignAid_PolicyBrief_FINAL_r1.pdf"
-    },
-    {
-      "label": "Quality of Life Study in Kenya and Rwanda: Year 1 Results",
-      "element type": "Impact",
-      "description": "This report summarizes the results from 2 years of data collection which examine the impact of One Acre Fund program participation on farmers' quality of life.",
-      "link": "https://oneacrefund.org/documents/268/Quality_of_Life_Report_RW_KE_2016_Final.pdf"
-    },
-    {
-      "label": "2014 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2014 program impact by country.",
-      "link": "https://oneacrefund.org/documents/196/Country_Impact_Report_2014.pdf"
-    },
-    {
-      "label": "Smallholder Farmers and Business: 15 pioneering collaborations for improved productivity and sustainability",
-      "element type": "Social Enterprise",
-      "description": "This report shows how pioneer companies and organizations have sustainably increased the income and livelihoods of millions of smallholder farmers around the world.",
-      "link": "https://oneacrefund.org/documents/144/Smallholder_Farmers_and_Business_Hystra_Report.pdf"
-    },
-    {
-      "label": "Whats Your Exit...Er Commitment Strategy?",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article delves into the conditions under which nonprofits will find commitment strategies—rather than exit strategies—may be the right answer for their direct service programs.",
-      "link": "https://oneacrefund.org/documents/125/Whats_Your_Exit_Er_Commitment_Strategy_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Ending Hunger in Africa",
-      "element type": "Social Enterprise",
-      "description": "Why is solving the challenge of distribution bottlenecks key to successfully disseminating life-changing interventions to smallholder farmers? By Andrew Youn, originally published The Art &amp; Science of Delivery, a report produced by McKinsey &amp; Company.",
-      "link": "https://oneacrefund.org/documents/126/Ending_Hunger_In_Africa_Andrew_Youn_Driving_Financial_Sustainability_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Scale Innovations",
-      "element type": "Social Enterprise",
-      "description": "Our scale innovations team is like an R&amp;D lab for operational improvements to the way One Acre Fund reaches farmers. This white paper discusses the team's unique approach and reviews several scale innovations trials.",
-      "link": "https://oneacrefund.org/documents/122/Scale_Innovations_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Professional Development of Field Staff",
-      "element type": "Social Enterprise",
-      "description": "Field staff are crucial to One Acre Fund's future growth, and are the focus of extensive professional development efforts. This white paper delves into One Acre Fund's field staff development philosophy and strategy.",
-      "link": "https://oneacrefund.org/documents/121/Professional_Development_of_Field_Staff_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Measuring to Improve vs. Improving Measurement",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article explores — and challenges — how social sector organizations have traditionally approached the paradigm of impact measurement.",
-      "link": "https://oneacrefund.org/documents/120/Measuring_to_Improve_vs_Improving_Measurement_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "To Serve the Poorest Clients, Earned Income Isn’t Enough",
-      "element type": "Social Enterprise",
-      "description": "This articles discusses the tensions between pursuing high social impact while attempting to focus on a bottom line. By Matt Forti and Stephanie Hanson, originally published by the Harvard Business Review blog.",
-      "link": "https://oneacrefund.org/documents/118/Harvard_Biz_Rev_To_Serve_the_Poorest_Clients_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Growing Prosperity: Developing Repeatable Models to Scale the Adoption of Agricultural Innovations",
-      "element type": "Social Enterprise",
-      "description": "This excerpt of the 2014 report by Bain &amp; Company and Acumen features a case study of One Acre Fund's model and outlines what is needed to spur the large-scale adoption of agricultural innovations among smallholder farmers.",
-      "link": "https://oneacrefund.org/documents/117/Growing_Prosperity_Bain_Report_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Driving Financial Sustainability",
-      "element type": "Social Enterprise",
-      "description": "As a direct service organization, One Acre Fund sees the pursuit of financial sustainability as integral to achieving its mission of transformative social impact. This white paper explains our approach to pursuing financial sustainability.",
-      "link": "https://oneacrefund.org/documents/116/Driving_Financial_Sustainability_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "2017 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2017 program impact by country.",
-      "link": "https://oneacrefund.org/documents/299/2017_Country_Specific_Impact_Report.pdf"
-    },
-    {
-      "label": "Challenging Conventional Wisdom on Nonprofit Boards",
-      "element type": "Social Enterprise",
-      "description": "This article shares our (somewhat counter-intuitive) experiences with our governing board, and how it's composition and function has evolved over time to meet our changing needs and opportunities.",
-      "link": "https://oneacrefund.org/documents/297/Challenging_Conventional_Wisdom_on_Nonprofit_Boards_SSIR_OAF.pdf"
-    },
-    {
-      "label": "Kenya 2017 Long Rains Yield Gap Analysis",
+      "label": "Scaling Banana Agronomy for Smallholder Farmers (2015)",
       "element type": "Agricultural Innovation",
-      "description": "This report from One Acre Fund's Agricultural Research Team presents progress to date in analyzing yield gaps in Kenya, using data from the 2017 long rains season.",
-      "link": "https://oneacrefund.org/documents/296/Kenya_2017LR_Yield_Gap_Analysis_v1.pdf"
+      "description": "This report outlines the advancements in One Acre Fund's banana program in Rwanda.",
+      "link": "https://oneacrefund.org/documents/82/Scaling_Banana_Agronomy_for_Smallholder_Farmers_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/82/Scaling_Banana_Agronomy_for_Smallholder_Farmers_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
     },
     {
-      "label": "Finding The Best Fit – One Acre Fund’s integration of digital tools in Kenya (USAID)",
+      "label": "Rock Phosphate – Long Rain Season, Rwanda (2014)",
       "element type": "Agricultural Innovation",
-      "description": "This USAID case study highlights One Acre Fund's approach to digital integration, particularly in Kenya. It reviews the impact of digital tools on the organization’s operations &amp; staff, and offers lessons learned about its digital integration experience.",
-      "link": "https://oneacrefund.org/documents/285/Finding_The_Best_Fit_USAID_One_Acre_Fund.pdf"
+      "description": "In 2014, One Acre Fund conducted trials with a group of smallholder farmers in the use of rock phosphate as a potentially cost-effective way to improve phosphorus levels and enhance yields. This trial report summarizes the findings and next steps.",
+      "link": "https://oneacrefund.org/documents/81/Rock_Phosphate_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/81/Rock_Phosphate_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
     },
     {
-      "label": "2016 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2016 program impact by country.",
-      "link": "https://oneacrefund.org/documents/274/2016_Country_Specific_Impact_Report.pdf"
-    },
-    {
-      "label": "Financial Sustainability 2.0: A Means to an End",
-      "element type": "Social Enterprise",
-      "description": "During the last two years (as of this writing), One Acre Fund’s thinking on financial sustainability has evolved. In this white paper, we explain the factors that have driven this change and our latest thinking on this important topic.",
-      "link": "https://oneacrefund.org/documents/273/Financial_Sustainability_One_Acre_Fund.pdf"
-    },
-    {
-      "label": "Actionable Measurement: Getting from “Prove” to “Improve”",
-      "element type": "Impact",
-      "description": "This article explores why we strongly believe that if nonprofits focused on answering and adjusting their models based on four key questions, we’d see a considerable boost in the social good our sector creates.",
-      "link": "https://oneacrefund.org/documents/272/Actionable_Measurement_Getting_from_Prove_to_Improve.pdf"
-    },
-    {
-      "label": "How Nonprofits Can Drive Healthy Growth Using SROI",
-      "element type": "Impact",
-      "description": "This article explores why we believe social return on investment is an underutilized yet surprisingly flexible tool for making strong resource allocation decisions that maximize nonprofit impact.",
-      "link": "https://oneacrefund.org/documents/271/How_Nonprofits_Can_Drive_Healthy_Growth_Using_SROI.pdf"
-    },
-    {
-      "label": "Reinventing Foreign Aid: Commonsense Proposals For More Efficiency and Impact",
-      "element type": "Impact",
-      "description": "As an active partner with the U.S. government, One Acre Fund believes that foreign aid must be designed to maximize impact and value for money for taxpayers, while submitting to rigorous evaluation.",
-      "link": "https://oneacrefund.org/documents/270/ForeignAid_PolicyBrief_FINAL_r1.pdf"
-    },
-    {
-      "label": "Quality of Life Study in Kenya and Rwanda: Year 1 Results",
-      "element type": "Impact",
-      "description": "This report summarizes the results from 2 years of data collection which examine the impact of One Acre Fund program participation on farmers' quality of life.",
-      "link": "https://oneacrefund.org/documents/268/Quality_of_Life_Report_RW_KE_2016_Final.pdf"
-    },
-    {
-      "label": "2014 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2014 program impact by country.",
-      "link": "https://oneacrefund.org/documents/196/Country_Impact_Report_2014.pdf"
-    },
-    {
-      "label": "Smallholder Farmers and Business: 15 pioneering collaborations for improved productivity and sustainability",
-      "element type": "Social Enterprise",
-      "description": "This report shows how pioneer companies and organizations have sustainably increased the income and livelihoods of millions of smallholder farmers around the world.",
-      "link": "https://oneacrefund.org/documents/144/Smallholder_Farmers_and_Business_Hystra_Report.pdf"
-    },
-    {
-      "label": "Whats Your Exit...Er Commitment Strategy?",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article delves into the conditions under which nonprofits will find commitment strategies—rather than exit strategies—may be the right answer for their direct service programs.",
-      "link": "https://oneacrefund.org/documents/125/Whats_Your_Exit_Er_Commitment_Strategy_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Ending Hunger in Africa",
-      "element type": "Social Enterprise",
-      "description": "Why is solving the challenge of distribution bottlenecks key to successfully disseminating life-changing interventions to smallholder farmers? By Andrew Youn, originally published The Art &amp; Science of Delivery, a report produced by McKinsey &amp; Company.",
-      "link": "https://oneacrefund.org/documents/126/Ending_Hunger_In_Africa_Andrew_Youn_Driving_Financial_Sustainability_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Scale Innovations",
-      "element type": "Social Enterprise",
-      "description": "Our scale innovations team is like an R&amp;D lab for operational improvements to the way One Acre Fund reaches farmers. This white paper discusses the team's unique approach and reviews several scale innovations trials.",
-      "link": "https://oneacrefund.org/documents/122/Scale_Innovations_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Professional Development of Field Staff",
-      "element type": "Social Enterprise",
-      "description": "Field staff are crucial to One Acre Fund's future growth, and are the focus of extensive professional development efforts. This white paper delves into One Acre Fund's field staff development philosophy and strategy.",
-      "link": "https://oneacrefund.org/documents/121/Professional_Development_of_Field_Staff_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Measuring to Improve vs. Improving Measurement",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article explores — and challenges — how social sector organizations have traditionally approached the paradigm of impact measurement.",
-      "link": "https://oneacrefund.org/documents/120/Measuring_to_Improve_vs_Improving_Measurement_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "To Serve the Poorest Clients, Earned Income Isn’t Enough",
-      "element type": "Social Enterprise",
-      "description": "This articles discusses the tensions between pursuing high social impact while attempting to focus on a bottom line. By Matt Forti and Stephanie Hanson, originally published by the Harvard Business Review blog.",
-      "link": "https://oneacrefund.org/documents/118/Harvard_Biz_Rev_To_Serve_the_Poorest_Clients_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Growing Prosperity: Developing Repeatable Models to Scale the Adoption of Agricultural Innovations",
-      "element type": "Social Enterprise",
-      "description": "This excerpt of the 2014 report by Bain &amp; Company and Acumen features a case study of One Acre Fund's model and outlines what is needed to spur the large-scale adoption of agricultural innovations among smallholder farmers.",
-      "link": "https://oneacrefund.org/documents/117/Growing_Prosperity_Bain_Report_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Driving Financial Sustainability",
-      "element type": "Social Enterprise",
-      "description": "As a direct service organization, One Acre Fund sees the pursuit of financial sustainability as integral to achieving its mission of transformative social impact. This white paper explains our approach to pursuing financial sustainability.",
-      "link": "https://oneacrefund.org/documents/116/Driving_Financial_Sustainability_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "2017 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2017 program impact by country.",
-      "link": "https://oneacrefund.org/documents/299/2017_Country_Specific_Impact_Report.pdf"
-    },
-    {
-      "label": "Challenging Conventional Wisdom on Nonprofit Boards",
-      "element type": "Social Enterprise",
-      "description": "This article shares our (somewhat counter-intuitive) experiences with our governing board, and how it's composition and function has evolved over time to meet our changing needs and opportunities.",
-      "link": "https://oneacrefund.org/documents/297/Challenging_Conventional_Wisdom_on_Nonprofit_Boards_SSIR_OAF.pdf"
-    },
-    {
-      "label": "Kenya 2017 Long Rains Yield Gap Analysis",
+      "label": "Poultry — Kenya (2015)",
       "element type": "Agricultural Innovation",
-      "description": "This report from One Acre Fund's Agricultural Research Team presents progress to date in analyzing yield gaps in Kenya, using data from the 2017 long rains season.",
-      "link": "https://oneacrefund.org/documents/296/Kenya_2017LR_Yield_Gap_Analysis_v1.pdf"
+      "description": "One Acre Fund reached out to national and international poultry experts to explore diverse poultry interventions. Disease &amp; breed were projected to be the most important drivers of impact, and two promising products were identified to address these needs.",
+      "link": "https://oneacrefund.org/documents/80/Poultry_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/80/Poultry_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
     },
     {
-      "label": "Finding The Best Fit – One Acre Fund’s integration of digital tools in Kenya (USAID)",
+      "label": "Irish Potato Intercropping",
       "element type": "Agricultural Innovation",
-      "description": "This USAID case study highlights One Acre Fund's approach to digital integration, particularly in Kenya. It reviews the impact of digital tools on the organization’s operations &amp; staff, and offers lessons learned about its digital integration experience.",
-      "link": "https://oneacrefund.org/documents/285/Finding_The_Best_Fit_USAID_One_Acre_Fund.pdf"
+      "description": "This trial tested production levels and farmer interest in Kinigi-variety potatoes in Rwanda's East and Lake Kivu zones.",
+      "link": "https://oneacrefund.org/documents/79/Potato_Intercropping_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/79/Potato_Intercropping_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
     },
     {
-      "label": "2016 Country Specific Impact Report",
+      "label": "Irish Potato Fungicide",
+      "element type": "Agricultural Innovation",
+      "description": "Irish potatoes are a common crop in upper altitude regions of Burundi. This trial assessed whether potato yields might increase from the application of Mancozeb fungicide to control late blight, &amp; whether using chemicals prophylactically is profiitable.",
+      "link": "https://oneacrefund.org/documents/78/Potato_Fungicide_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/78/Potato_Fungicide_Ag_Innovations.pdf",
+      "countries": [
+        "Burundi"
+      ]
+    },
+    {
+      "label": "Post-Harvest Home Storage (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "In 2014, One Acre Fund tested home post-harvest storage solutions with a standardized trial process. This report reviews this trial process and its findings.",
+      "link": "https://oneacrefund.org/documents/77/Post-Harvest_Home_Storage_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/77/Post-Harvest_Home_Storage_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Pigeon Pea – Long Rain Season (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "In 2014, One Acre Fund conducted research station trials of pigeon pea. This trial report summarizes the findings and next steps.",
+      "link": "https://oneacrefund.org/documents/76/Pigeon_Pea_Research_White_Paper_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/76/Pigeon_Pea_Research_White_Paper_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "PICS Storage Bag Scale Up",
+      "element type": "Agricultural Innovation",
+      "description": "Many farmers report post-harvest grain losses due to pests and moisture, and Purdue Improved Crop Storage (PICS) bags have been identified as a potentially impactful intervention method. This trial was aimed at evaluating the usefulness of PICS bags.",
+      "link": "https://oneacrefund.org/documents/75/PICS_Bags_Scale-up_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/75/PICS_Bags_Scale-up_Ag_Innovations.pdf",
+      "countries": [
+        "Tanzania"
+      ]
+    },
+    {
+      "label": "Optimizing Maize Variety Adoption and Performance (2015)",
+      "element type": "Agricultural Innovation",
+      "description": "During the 2015 long rains season in Kenya, One Acre Fund sought to better understand maize variety performance and the critical drivers of farmer variety selection and retention. This trial report contains key findings and next steps.",
+      "link": "https://oneacrefund.org/documents/74/Optimizing_Maize_Variety_Adoption_Performance_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/74/Optimizing_Maize_Variety_Adoption_Performance_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Nitrogen Fixation in Beans – Long Rain Season, Rwanda (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "n 2014, One Acre Fund trialed two inoculant products in Rugano and Nyaruzazi districts, Rwanda. This white paper reviews the outcome of this trial.",
+      "link": "https://oneacrefund.org/documents/73/Nitrogen_Fixation_In_Beans_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/73/Nitrogen_Fixation_In_Beans_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "New Bean Varieties — Long Rain Season, Rwanda (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "Both climbing and bush beans are staple crops in Rwanda. In 2014, One Acre Fund evaluated eleven different bush and climbing bean varieties in Rwanda, for both yield and farmer preference. This white paper reviews the outcome of these evaluations.",
+      "link": "https://oneacrefund.org/documents/72/New_Bean_Varieties_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/72/New_Bean_Varieties_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "Managing Soil Acidity with Lime (2015)",
+      "element type": "Agricultural Innovation",
+      "description": "Soil acidity is a major constraint to agricultural productivity throughout Africa. This report outlines the work of One Acre Fund to deliver lime and other soil acidity-ameliorating tools to smallholder farmers in East Africa.",
+      "link": "https://oneacrefund.org/documents/71/Managing_Soil_Acidity_with_Lime_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/71/Managing_Soil_Acidity_with_Lime_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya",
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "Managing Soil Acidity (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "Currently, One Acre Fund trains farmers on various practices to reduce the rate of soil acidification. This report details the second phase of One Acre Fund's 2014 acidity trial.",
+      "link": "https://oneacrefund.org/documents/70/Managing_Soil_Acidity_Trial_Report_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/70/Managing_Soil_Acidity_Trial_Report_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Maize MLND Variety Test",
+      "element type": "Agricultural Innovation",
+      "description": "Maize Lethal Necrosis Disease (MLND) destroys maize plants and can greatly reduce yields. This trial evaluated the performance of a potential MLND-resistant maize variety against a currently offered variety, both in the presence of the disease.",
+      "link": "https://oneacrefund.org/documents/69/Maize_Variety_MLND_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/69/Maize_Variety_MLND_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Maize Urea vs. CAN",
+      "element type": "Agricultural Innovation",
+      "description": "Fertilizer is one of the primary inputs that go into smallholder farming systems in East Africa. This trial tested the maize yield effect of urea compared to CAN, and measured the soil acidity level effect of the different top dress options.",
+      "link": "https://oneacrefund.org/documents/68/Maize_Urea_vs_CAN__Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/68/Maize_Urea_vs_CAN__Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Maize Storage Loan — Long Rain Season, Kenya (2015)",
+      "element type": "Agricultural Innovation",
+      "description": "In 2014 and 2015, One Acre Fund trialled a home storage loan program to test various methods to overcome the financial burdens of maize storage. This report summarizes the findings and next steps from this trial.",
+      "link": "https://oneacrefund.org/documents/67/Maize_Storage_Loan_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/67/Maize_Storage_Loan_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Maize Legume Rotation",
+      "element type": "Agricultural Innovation",
+      "description": "Many farmers in western Kenya grow continuous maize during both the short and long-rain seasons. This trial tested the effect of growing maize in the long-rain season after growing soybeans or bush beans in the preceding short-rain season.",
+      "link": "https://oneacrefund.org/documents/66/Maize_Legume_Rotation_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/66/Maize_Legume_Rotation_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Maize Fertilizer Timing – Long Rain Season, Kenya (2015)",
+      "element type": "Agricultural Innovation",
+      "description": "It is common for farmers in sub-Saharan Africa to apply nitrogen fertilizer based on plant height. In 2015, One Acre Fund trialled plant morphology-based fertilizer timing trainings with farmers in Kenya.",
+      "link": "https://oneacrefund.org/documents/65/Maize_Fertilizer_Timing_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/65/Maize_Fertilizer_Timing_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Low Rainfall Maize – Long Rain Season, Kenya (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "One Acre Fund has identified and tested low-rainfall tolerant maize varieties and planting techniques. This white paper review the outcomes of these trials.",
+      "link": "https://oneacrefund.org/documents/64/Low_Rainfall_Maize_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/64/Low_Rainfall_Maize_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Kitchen Vegetables — Long Rain Season, Kenya (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "In 2014, One Acre Fund conducted research to evaluate recommended best practice planting techniques for these vegetables. This report summarizes the findings and next steps.",
+      "link": "https://oneacrefund.org/documents/63/Kitchen_Vegetables_Ag_Innovations_.pdf",
+      "id": "https://oneacrefund.org/documents/63/Kitchen_Vegetables_Ag_Innovations_.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Potato Fertilizer—Long Rain Season, Rwanda (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "In 2014, One Acre Fund experimented with lower fertilizer application rates in an effort to increase the profitability of potato cultivation.This white paper reviews the outcome of this trial in Rwanda.",
+      "link": "https://oneacrefund.org/documents/62/Irish_Potato_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/62/Irish_Potato_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "Maize-Legume Intercropping (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "One Acre Fund conducted a series of maize-legume intercropping trials in Kenya order determine the optimum species and arrangement to provide farmers with significant and positive economic and food security impacts.",
+      "link": "https://oneacrefund.org/documents/61/Intercropping_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/61/Intercropping_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya"
+      ]
+    },
+    {
+      "label": "Improved Bean Seed (2015)",
+      "element type": "Agricultural Innovation",
+      "description": "One Acre Fund has been making major investments to bring the best bean varieties and agronomy to hundreds of thousands of smallholder farmers across Eastern and Central Africa. This trial report summarizes that work.",
+      "link": "https://oneacrefund.org/documents/60/Improved_Bean_Seed_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/60/Improved_Bean_Seed_Ag_Innovations.pdf",
+      "countries": [
+        "Kenya",
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "Green Manure Cover Crops Rotation",
+      "element type": "Agricultural Innovation",
+      "description": "Green manure cover cropsare leguminous plant species that when grown in a rotation with maize, can improve soil health, and break pest and disease cycles. This trial tested long-rain season maize yields in Kenya after growing lablab and mucuna.",
+      "link": "https://oneacrefund.org/documents/59/Green_Manure_Cover_Crops_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/59/Green_Manure_Cover_Crops_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Finger Millet Trial – Long Rain Season, Kenya (2013)",
+      "element type": "Agricultural Innovation",
+      "description": "With the spread of a devastating maize disease known as Maize Lethal Necrosis (MLN), in 2013 One Acre Fund re-introduced finger millet as an alternative cereal to the susceptible maize varieties commonly grown in Kenya.",
+      "link": "https://oneacrefund.org/documents/58/Finger_Millet_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/58/Finger_Millet_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Dairy Cow Care in Kenya (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "ne Acre Fund is offering a dairy cow care package to increase milk production. By combining products that allow for farmers to raise healthier animals, One Acre Fund aims to have a long-term and diverse impact on household incomes.",
+      "link": "https://oneacrefund.org/documents/57/Dairy_Cow_Care_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/57/Dairy_Cow_Care_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Custom Fertilizer Blends— Long Rain Season, Kenya (2015)",
+      "element type": "Agricultural Innovation",
+      "description": "In 2015, One Acre Fund sought to try a holistic approach to fertilizer use, in an effort to address total nutrient management and soil acidity simultaneously.",
+      "link": "https://oneacrefund.org/documents/56/Custom_Fertilizer_Blends_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/56/Custom_Fertilizer_Blends_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Common Bean Trial – Long Rain Season, Kenya (2013)",
+      "element type": "Agricultural Innovation",
+      "description": "Common bean is a staple crop in much of East Africa, including western Kenya. One variety, KK8, has proven to be resilient in the face of root rot, and has proven popular among farmers. This white paper reviews the outcome of trials involving KK8 seed.",
+      "link": "https://oneacrefund.org/documents/55/Common_Bean_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/55/Common_Bean_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Collard Greens Trial – Long Rain Season, Kenya (2013)",
+      "element type": "Agricultural Innovation",
+      "description": "In 2013, One Acre Fund began offering improved collard greens seed and plant management trainings in an effort to increase adoption of this nutritious crop. This white paper reviews the outcomes of this trial.",
+      "link": "https://oneacrefund.org/documents/54/Collard_Greens_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/54/Collard_Greens_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Bush Bean Disease Management",
+      "element type": "Agricultural Innovation",
+      "description": "Bush beans are the second-most widely grown crop in the areas where we operate, but yields are typically low due to improper disease &amp; pest management. This trial evaluated the effectiveness of various combinations of bean disease management products.",
+      "link": "https://oneacrefund.org/documents/53/Bush_Bean_Disease_Management_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/53/Bush_Bean_Disease_Management_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Blast Resistant Finger Millet— Long Rain Season, Kenya (2015)",
+      "element type": "Agricultural Innovation",
+      "description": "Millet blast, a fungal infection of the plant leaves and grain head, can have a major negative impact on millet yields. These trials tested three new millet varieties that are resistant to millet blast.",
+      "link": "https://oneacrefund.org/documents/52/Blast_Resistant_Finger_Millet_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/52/Blast_Resistant_Finger_Millet_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Bananas — Long Rain Season, Rwanda (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "Identifying high-yielding, disease resistant banana cultivars, coupled with appropriate fertilizer use and best management practices, could significantly impact the livelihoods of One Acre Fund farmers in Rwanda.",
+      "link": "https://oneacrefund.org/documents/51/Bananas_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/51/Bananas_Ag_Innovations.pdf",
+      "countries": [
+        "Rwanda"
+      ]
+    },
+    {
+      "label": "Smallholder Agroforestry (2014)",
+      "element type": "Agricultural Innovation",
+      "description": "In the 2013 Long Rains season, One Acre Fund distrubuted grevillea tree seed and trainings to over 60,000 farmers, trialing new planting and training techniques to maximize impact. This report reviews trial outcomes and next steps.",
+      "link": "https://oneacrefund.org/documents/50/Agroforestry_Ag_Innovations.pdf",
+      "id": "https://oneacrefund.org/documents/50/Agroforestry_Ag_Innovations.pdf",
+      "countries": []
+    },
+    {
+      "label": "Spillover Effect Kenya Analysis",
       "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2016 program impact by country.",
-      "link": "https://oneacrefund.org/documents/274/2016_Country_Specific_Impact_Report.pdf"
+      "description": "This report reviews an analysis One Acre Fund undertook to better understand the extent to which farmers who live in our program areas, but who are not enrolled in the program, still receive some program benefit.",
+      "link": "https://oneacrefund.org/documents/13/Spillover_Effect_Kenya_Analysis_One_Acre_Fund.pdf",
+      "id": "https://oneacrefund.org/documents/13/Spillover_Effect_Kenya_Analysis_One_Acre_Fund.pdf",
+      "countries": []
     },
     {
-      "label": "Financial Sustainability 2.0: A Means to an End",
-      "element type": "Social Enterprise",
-      "description": "During the last two years (as of this writing), One Acre Fund’s thinking on financial sustainability has evolved. In this white paper, we explain the factors that have driven this change and our latest thinking on this important topic.",
-      "link": "https://oneacrefund.org/documents/273/Financial_Sustainability_One_Acre_Fund.pdf"
-    },
-    {
-      "label": "Actionable Measurement: Getting from “Prove” to “Improve”",
+      "label": "Difference in Difference Impact Study",
       "element type": "Impact",
-      "description": "This article explores why we strongly believe that if nonprofits focused on answering and adjusting their models based on four key questions, we’d see a considerable boost in the social good our sector creates.",
-      "link": "https://oneacrefund.org/documents/272/Actionable_Measurement_Getting_from_Prove_to_Improve.pdf"
-    },
-    {
-      "label": "How Nonprofits Can Drive Healthy Growth Using SROI",
-      "element type": "Impact",
-      "description": "This article explores why we believe social return on investment is an underutilized yet surprisingly flexible tool for making strong resource allocation decisions that maximize nonprofit impact.",
-      "link": "https://oneacrefund.org/documents/271/How_Nonprofits_Can_Drive_Healthy_Growth_Using_SROI.pdf"
-    },
-    {
-      "label": "Reinventing Foreign Aid: Commonsense Proposals For More Efficiency and Impact",
-      "element type": "Impact",
-      "description": "As an active partner with the U.S. government, One Acre Fund believes that foreign aid must be designed to maximize impact and value for money for taxpayers, while submitting to rigorous evaluation.",
-      "link": "https://oneacrefund.org/documents/270/ForeignAid_PolicyBrief_FINAL_r1.pdf"
-    },
-    {
-      "label": "Quality of Life Study in Kenya and Rwanda: Year 1 Results",
-      "element type": "Impact",
-      "description": "This report summarizes the results from 2 years of data collection which examine the impact of One Acre Fund program participation on farmers' quality of life.",
-      "link": "https://oneacrefund.org/documents/268/Quality_of_Life_Report_RW_KE_2016_Final.pdf"
-    },
-    {
-      "label": "2014 Country Specific Impact Report",
-      "element type": "Impact",
-      "description": "This report provides a detailed breakdown of One Acre Fund's 2014 program impact by country.",
-      "link": "https://oneacrefund.org/documents/196/Country_Impact_Report_2014.pdf"
-    },
-    {
-      "label": "Smallholder Farmers and Business: 15 pioneering collaborations for improved productivity and sustainability",
-      "element type": "Social Enterprise",
-      "description": "This report shows how pioneer companies and organizations have sustainably increased the income and livelihoods of millions of smallholder farmers around the world.",
-      "link": "https://oneacrefund.org/documents/144/Smallholder_Farmers_and_Business_Hystra_Report.pdf"
-    },
-    {
-      "label": "Whats Your Exit...Er Commitment Strategy?",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article delves into the conditions under which nonprofits will find commitment strategies—rather than exit strategies—may be the right answer for their direct service programs.",
-      "link": "https://oneacrefund.org/documents/125/Whats_Your_Exit_Er_Commitment_Strategy_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Ending Hunger in Africa",
-      "element type": "Social Enterprise",
-      "description": "Why is solving the challenge of distribution bottlenecks key to successfully disseminating life-changing interventions to smallholder farmers? By Andrew Youn, originally published The Art &amp; Science of Delivery, a report produced by McKinsey &amp; Company.",
-      "link": "https://oneacrefund.org/documents/126/Ending_Hunger_In_Africa_Andrew_Youn_Driving_Financial_Sustainability_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Scale Innovations",
-      "element type": "Social Enterprise",
-      "description": "Our scale innovations team is like an R&amp;D lab for operational improvements to the way One Acre Fund reaches farmers. This white paper discusses the team's unique approach and reviews several scale innovations trials.",
-      "link": "https://oneacrefund.org/documents/122/Scale_Innovations_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Professional Development of Field Staff",
-      "element type": "Social Enterprise",
-      "description": "Field staff are crucial to One Acre Fund's future growth, and are the focus of extensive professional development efforts. This white paper delves into One Acre Fund's field staff development philosophy and strategy.",
-      "link": "https://oneacrefund.org/documents/121/Professional_Development_of_Field_Staff_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Measuring to Improve vs. Improving Measurement",
-      "element type": "Social Enterprise",
-      "description": "Originally published by the Stanford Social Innovation Review, this article explores — and challenges — how social sector organizations have traditionally approached the paradigm of impact measurement.",
-      "link": "https://oneacrefund.org/documents/120/Measuring_to_Improve_vs_Improving_Measurement_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "To Serve the Poorest Clients, Earned Income Isn’t Enough",
-      "element type": "Social Enterprise",
-      "description": "This articles discusses the tensions between pursuing high social impact while attempting to focus on a bottom line. By Matt Forti and Stephanie Hanson, originally published by the Harvard Business Review blog.",
-      "link": "https://oneacrefund.org/documents/118/Harvard_Biz_Rev_To_Serve_the_Poorest_Clients_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Growing Prosperity: Developing Repeatable Models to Scale the Adoption of Agricultural Innovations",
-      "element type": "Social Enterprise",
-      "description": "This excerpt of the 2014 report by Bain &amp; Company and Acumen features a case study of One Acre Fund's model and outlines what is needed to spur the large-scale adoption of agricultural innovations among smallholder farmers.",
-      "link": "https://oneacrefund.org/documents/117/Growing_Prosperity_Bain_Report_One_Acre_Fund_Social_Enterprise.pdf"
-    },
-    {
-      "label": "Driving Financial Sustainability",
-      "element type": "Social Enterprise",
-      "description": "As a direct service organization, One Acre Fund sees the pursuit of financial sustainability as integral to achieving its mission of transformative social impact. This white paper explains our approach to pursuing financial sustainability.",
-      "link": "https://oneacrefund.org/documents/116/Driving_Financial_Sustainability_One_Acre_Fund_Social_Enterprise.pdf"
+      "description": "In addition to the randomized control trial (RCT), One Acre Fund uses the Difference-in-Difference (diff-in-diff) statistical technique to verify our everyday measurements. This memo covers our most comprehensive difference-in-difference studies.",
+      "link": "https://oneacrefund.org/documents/12/Diff_in_Diff_Impact_Report_One_Acre_Fund_2016.pdf",
+      "id": "https://oneacrefund.org/documents/12/Diff_in_Diff_Impact_Report_One_Acre_Fund_2016.pdf",
+      "countries": [
+        "Burundi",
+        "Rwanda",
+        "Tanzania"
+      ]
     }
   ]
 }
