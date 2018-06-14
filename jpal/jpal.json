@@ -1,0 +1,90 @@
+[
+  {
+    "label": "Menstruation and Education in Nepal",
+    "type": "Article",
+    "description": "Researchers introduced a convenient and hygienic sanitary product, reusable menstrual cups, to Nepalese girls in the seventh and eighth grades. Their evaluation addressed several questions: Is menstruation as large a barrier to education as many believe? Does switching to modern sanitary products increase attendance and school performance among girls? Results showed that girls in Nepal missed...",
+    "sectors": [
+      "Education",
+      "Gender"
+    ],
+    "authors": [
+      "Rebecca Thornton"
+    ],
+    "link": "https://www.povertyactionlab.org/evaluation/menstruation-and-education-nepal",
+    "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/99-high.jpg?itok=sL4h8t_o"
+  },
+  {
+    "label": "Extending Health Insurance to the Informal Sector Through Microfinance in Nicaragua",
+    "type": "Article",
+    "description": "This evaluation measured the determinants of insurance enrollment as well as the impacts of having insurance for informal sector workers by randomly varying the costs and convenience of signing up for a government health insurance program available to formal and informal sector workers in Nicaragua. Overall, take-up of the insurance and retention rates were low, and enrolling in the program did...",
+    "sectors": [
+      "Finance",
+      "Health"
+    ],
+    "authors": [
+      "Erica Field",
+      "Rebecca Thornton"
+    ],
+    "link": "https://www.povertyactionlab.org/evaluation/extending-health-insurance-informal-sector-through-microfinance-nicaragua",
+    "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/98-high.jpg?itok=OgwCd6Jl"
+  },
+  {
+    "label": "Incentives to Learn: A Merit-Based Girls' Scholarship Program in Kenya",
+    "type": "Article",
+    "description": "Approximately 85 percent of primary school age children in western Kenya are enrolled in school, but only about one-third of students finish primary school. Dropout rates are typically higher for girls; in 2001 the 6th grade dropout rate was 10 percent for girls and 7 percent for boys among students in this study’s comparison schools at baseline. This project was introduced in part to assist...",
+    "sectors": [
+      "Education",
+      "Gender"
+    ],
+    "authors": [
+      "Edward Miguel",
+      "Michael Kremer",
+      "Rebecca Thornton"
+    ],
+    "link": "https://www.povertyactionlab.org/evaluation/incentives-learn-merit-based-girls-scholarship-program-kenya",
+    "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/30_1.jpg?itok=PoWDIb1-"
+  },
+  {
+    "label": "The Demand for and Impact of Learning HIV Status in Malawi",
+    "type": "Article",
+    "description": "While even very small incentives encouraged people to return for their HIV test results, rapid testing in the home had the greatest impact on program take-up. However, for most people, learning status did not substantially change their behavior.\n",
+    "sectors": [
+      "Health"
+    ],
+    "authors": [
+      "Rebecca Thornton"
+    ],
+    "link": "https://www.povertyactionlab.org/evaluation/demand-and-impact-learning-hiv-status-malawi",
+    "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/50_2.jpg?itok=GkUT30Wd"
+  },
+  {
+    "label": "Balsakhi Remedial Tutoring in Vadodara and Mumbai, India",
+    "type": "Article",
+    "description": "Researchers evaluated the impact of the Balsakhi Program, a remedial tutoring education intervention implemented in schools in Vadodara and Mumbai, India, on student learning. The program significantly improved student test scores in both locations.\n",
+    "sectors": [
+      "Education"
+    ],
+    "authors": [
+      "Abhijit Banerjee",
+      "Esther Duflo",
+      "Leigh Linden",
+      "Shawn Cole"
+    ],
+    "link": "https://www.povertyactionlab.org/evaluation/balsakhi-remedial-tutoring-vadodara-and-mumbai-india",
+    "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/2-high.jpg?itok=3KYYJ-l2"
+  },
+  {
+    "label": "Discrimination in the Job Market in the United States",
+    "type": "Article",
+    "description": "Researchers examined the level of racial discrimination in the United States labor market by randomly assigning identical résumés black-sounding or white-sounding names and observing the impact on requests for interviews from employers. Results found that résumés with white-sounding names received 50 percent more callbacks than those with black names, indicating that, all other things being equal...",
+    "sectors": [
+      "Labor Markets"
+    ],
+    "authors": [
+      "Marianne Bertrand",
+      "Sendhil Mullainathan"
+    ],
+    "link": "https://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states",
+    "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/3_1.jpg?itok=nve2bYdY"
+  }
+]
