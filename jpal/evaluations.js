@@ -35,7 +35,7 @@ async function scrapePages() {
     'evaluations': [],
     'authors': []
   };
-  metadata.pageTotal = 4;
+
   for(i = 0; i < metadata.pageTotal; i++) {
     console.log(metadata.pageTotal - i);
     let page2 = await browser.newPage();
@@ -177,7 +177,7 @@ async function scrapePages() {
       let jpalRoles = [];
       let nodes = document.querySelectorAll('.jpal-role');
       nodes.forEach(node => {
-        let value = node.textContent.replace(/^\s+/g, '').replace(/\s+$/g, '').replace(/\s+/g,'\s');
+        let value = node.textContent.replace(/^\s+/g, '').replace(/\s+$/g, '').replace(/\s+/g,' ');
         jpalRoles.push(value);
       });
       data['j-pal roles'] = jpalRoles;
@@ -202,9 +202,14 @@ async function scrapePages() {
     await page2.close();
   }
 
-  let log = data.authors;
+  function createElementBlueprint(elementsArray) {
+      let elementBlueprint = JSON.parse(
+          "{\"elements\":" + JSON.stringify(elementsArray) + "}"
+          );
+      return JSON.stringify(elementBlueprint, null, 2);
+  }
 
-  fs.writeFile('jpal.json', JSON.stringify(log, null, 2), (err) => {
+  fs.writeFile('jpal.json', createElementBlueprint(data.evaluations.concat(data.authors)), (err) => {
     if (err) throw err;
     console.log('yay');
   });
