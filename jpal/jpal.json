@@ -1,897 +1,285 @@
-{
-  "evaluations": [
-    {
-      "label": "Menstruation and Education in Nepal",
-      "type": "Article",
-      "description": "Researchers introduced a convenient and hygienic sanitary product, reusable menstrual cups, to Nepalese girls in the seventh and eighth grades. Their evaluation addressed several questions: Is menstruation as large a barrier to education as many believe? Does switching to modern sanitary products increase attendance and school performance among girls? Results showed that girls in Nepal missed...",
-      "sectors": [
-        "Education",
-        "Gender"
-      ],
-      "authors": [
-        "Rebecca Thornton"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/menstruation-and-education-nepal",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/99-high.jpg?itok=sL4h8t_o",
-      "Location": "Bharatpur City, Chitwan, Nepal",
-      "Sample": "198 adolescent girls and their mothers",
-      "Timeline": "2006 to 2008",
-      "Target Group": [
-        "Women and girls"
-      ],
-      "Outcome of Interest": [
-        "Citizen satisfaction",
-        "Enrollment and attendance"
-      ],
-      "Intervention Type": [
-        "Information"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0000583",
-      "Data": "https://www.aeaweb.org/articles?id=10.1257/app.3.1.91",
-      "Research Papers": [
-        "Determinants of Technology Adoption: Peer Effects in Menstrual Cup Take-Up"
-      ],
-      "Partners": [
-        "http://isernepal.org.np/"
-      ]
-    },
-    {
-      "label": "Extending Health Insurance to the Informal Sector Through Microfinance in Nicaragua",
-      "type": "Article",
-      "description": "This evaluation measured the determinants of insurance enrollment as well as the impacts of having insurance for informal sector workers by randomly varying the costs and convenience of signing up for a government health insurance program available to formal and informal sector workers in Nicaragua. Overall, take-up of the insurance and retention rates were low, and enrolling in the program did...",
-      "sectors": [
-        "Finance",
-        "Health"
-      ],
-      "authors": [
-        "Erica Field",
-        "Rebecca Thornton"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/extending-health-insurance-informal-sector-through-microfinance-nicaragua",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/98-high.jpg?itok=OgwCd6Jl",
-      "Location": "Central Managua, Nicaragua",
-      "Sample": "2,807 respondents",
-      "Timeline": "2007 to 2008",
-      "Target Group": [
-        "Rural population"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0000585",
-      "Research Papers": [
-        "Social Security Health Insurance for the Informal Sector in Nicaragua"
-      ],
-      "Partners": [
-        "http://eac-global.com/",
-        "http://www.gdn.int/index.php",
-        "http://www.usaid.gov/"
-      ]
-    },
-    {
-      "label": "Incentives to Learn: A Merit-Based Girls' Scholarship Program in Kenya",
-      "type": "Article",
-      "description": "Approximately 85 percent of primary school age children in western Kenya are enrolled in school, but only about one-third of students finish primary school. Dropout rates are typically higher for girls; in 2001 the 6th grade dropout rate was 10 percent for girls and 7 percent for boys among students in this study’s comparison schools at baseline. This project was introduced in part to assist...",
-      "sectors": [
-        "Education",
-        "Gender"
-      ],
-      "authors": [
-        "Edward Miguel",
-        "Michael Kremer",
-        "Rebecca Thornton"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/incentives-learn-merit-based-girls-scholarship-program-kenya",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/30_1.jpg?itok=PoWDIb1-",
-      "Location": "Busia and Teso districts, Kenya",
-      "Sample": "127 primary schools",
-      "Timeline": "2001 to 2003",
-      "Target Group": [
-        "Children",
-        "Parents",
-        "Primary schools",
-        "Rural population",
-        "Students",
-        "Women and girls"
-      ],
-      "Outcome of Interest": [
-        "Dropout and graduation",
-        "Provider attendance",
-        "Provider performance",
-        "Student learning"
-      ],
-      "Intervention Type": [
-        "Scholarships"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001183",
-      "Research Papers": [
-        "Incentives to Learn"
-      ],
-      "Partners": [
-        "http://www.education.go.ke/",
-        "http://icsafrica.org/",
-        "http://www.macfdn.org/",
-        "http://www.worldbank.org/"
-      ]
-    },
-    {
-      "label": "The Demand for and Impact of Learning HIV Status in Malawi",
-      "type": "Article",
-      "description": "While even very small incentives encouraged people to return for their HIV test results, rapid testing in the home had the greatest impact on program take-up. However, for most people, learning status did not substantially change their behavior.\n",
-      "sectors": [
-        "Health"
-      ],
-      "authors": [
-        "Rebecca Thornton"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/demand-and-impact-learning-hiv-status-malawi",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/50_2.jpg?itok=GkUT30Wd",
-      "Location": "Mchinji, Rumphi, Balaka Districts, Malawi",
-      "Sample": "2,812 individuals from approximately 120 villages",
-      "Timeline": "1998 to 2006",
-      "Outcome of Interest": [
-        "HIV/AIDS",
-        "Sexual and reproductive health"
-      ],
-      "Intervention Type": [
-        "Incentives",
-        "Information"
-      ],
-      "Data": "https://www.aeaweb.org/articles.php",
-      "Research Papers": [
-        "Increasing the Acceptability of HIV Counseling and Testing with Three C's: Convenience, Confidentiality, and Credibility"
-      ]
-    },
-    {
-      "label": "Balsakhi Remedial Tutoring in Vadodara and Mumbai, India",
-      "type": "Article",
-      "description": "Researchers evaluated the impact of the Balsakhi Program, a remedial tutoring education intervention implemented in schools in Vadodara and Mumbai, India, on student learning. The program significantly improved student test scores in both locations.\n",
-      "sectors": [
-        "Education"
-      ],
-      "authors": [
-        "Abhijit Banerjee",
-        "Shawn Cole",
-        "Esther Duflo",
-        "Leigh Linden"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/balsakhi-remedial-tutoring-vadodara-and-mumbai-india",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/2-high.jpg?itok=3KYYJ-l2",
-      "Location": "India",
-      "Sample": "122 primary schools in Vadodara, 77 primary schools in Mumbai",
-      "Timeline": "2001 to 2004",
-      "Target Group": [
-        "Children",
-        "Primary schools",
-        "Students"
-      ],
-      "Outcome of Interest": [
-        "Provider performance",
-        "Student learning"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001701",
-      "Data": "https://dx.doi.org/10.7910/DVN/UV7ERB",
-      "Research Papers": [
-        "Remedying Education: Evidence from Two Randomized Experiments in India"
-      ],
-      "Partners": [
-        "http://www.icicibank.com/",
-        "http://www.pratham.org/",
-        "http://www.worldbank.org/"
-      ]
-    },
-    {
-      "label": "Discrimination in the Job Market in the United States",
-      "type": "Article",
-      "description": "Researchers examined the level of racial discrimination in the United States labor market by randomly assigning identical résumés black-sounding or white-sounding names and observing the impact on requests for interviews from employers. Results found that résumés with white-sounding names received 50 percent more callbacks than those with black names, indicating that, all other things being equal...",
-      "sectors": [
-        "Labor Markets"
-      ],
-      "authors": [
-        "Marianne Bertrand",
-        "Sendhil Mullainathan"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/3_1.jpg?itok=nve2bYdY",
-      "Location": "Chicago and Boston, United States",
-      "Sample": "5,000 résumés and 1,300 jobs",
-      "Timeline": "2000 to 2002",
-      "Target Group": [
-        "Firms",
-        "Urban population"
-      ],
-      "Outcome of Interest": [
-        "Discrimination"
-      ],
-      "Intervention Type": [
-        "Recruitment and hiring"
-      ],
-      "Data": "http://www.aeaweb.org/articles.php?doi=10.1257/0002828042002561",
-      "Research Papers": [
-        "Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination"
-      ]
-    },
-    {
-      "label": "Information and Social Interaction in Savings Decisions in the United States",
-      "type": "Article",
-      "description": "This evaluation studied the influence of information and social networks on university employees' decisions to enroll in a voluntary Tax Deferred Account (TDA) retirement plan in the United States. The results indicated that an individual’s decision to participate in the TDA is affected by small changes in their environment (i.e. in their social network), and not only by receiving increased...",
-      "sectors": [
-        "Finance"
-      ],
-      "authors": [
-        "Esther Duflo"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/information-and-social-interaction-savings-decisions-united-states",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/4-high.jpg?itok=D2y8Qusr",
-      "Location": "United States",
-      "Sample": "6,211 University Staff Employees",
-      "Timeline": "2000 to 2001",
-      "Outcome of Interest": [
-        "Household finance"
-      ],
-      "Intervention Type": [
-        "Incentives",
-        "Social networks"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001700",
-      "Research Papers": [
-        "The Role of Information and Social Interactions in Retirement Plan Decisions: Evidence from a Randomized Experiment"
-      ]
-    },
-    {
-      "label": "HIV/AIDS Prevention Through Relative Risk Information for Teenage Girls in Kenya",
-      "type": "Article",
-      "description": "Information about the relative risks of having sexual relations with older men is an effective way of discouraging unsafe sex among adolescents in Kenya.\r\n",
-      "sectors": [
-        "Education",
-        "Gender",
-        "Health"
-      ],
-      "authors": [
-        "Pascaline Dupas"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/hivaids-prevention-through-relative-risk-information-teenage-girls-kenya",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/5_1.jpg?itok=jG9W430w",
-      "Location": "Western Kenya",
-      "Sample": "328 Primary Schools in Kenya's Western Province",
-      "Timeline": "2003 to 2005",
-      "Target Group": [
-        "Women and girls"
-      ],
-      "Outcome of Interest": [
-        "HIV/AIDS",
-        "Sexual and reproductive health"
-      ],
-      "Intervention Type": [
-        "Information",
-        "Preventive health"
-      ],
-      "Data": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/DOBO88",
-      "Research Papers": [
-        "Do Teenagers Respond to HIV Risk Information? Evidence from a Field Experiment in Kenya"
-      ],
-      "Partners": [
-        "http://icsafrica.org/",
-        "https://www.povertyactionlab.org/evaluation/hivaids-prevention-through-relative-risk-information-teenage-girls-kenya",
-        "http://www.child-development.org/"
-      ]
-    },
-    {
-      "label": "Computer-Assisted Learning Project with Pratham in India",
-      "type": "Article",
-      "description": "In Vadodora, India, researchers studied the impact of supplementing classroom instruction with computer-assisted learning (CAL) in primary schools. CAL significantly improved student’s math scores, but was less cost-effective than the remedial tutor-based program, Balsakhi.\n",
-      "sectors": [
-        "Education"
-      ],
-      "authors": [
-        "Abhijit Banerjee",
-        "Shawn Cole",
-        "Esther Duflo",
-        "Leigh Linden"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/computer-assisted-learning-project-pratham-india",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/6-high.jpg?itok=telc9IA0",
-      "Location": "Vadodara, India",
-      "Sample": "Grade 4 classes in 111 primary schools",
-      "Timeline": "2002 to 2004",
-      "Target Group": [
-        "Children",
-        "Primary schools",
-        "Urban population"
-      ],
-      "Outcome of Interest": [
-        "Student learning"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001701",
-      "Research Papers": [
-        "Remedying Education: Evidence from Two Randomized Experiments in India"
-      ],
-      "Partners": [
-        "http://www.icicibank.com/",
-        "http://www.macfdn.org/",
-        "http://www.pratham.org/"
-      ]
-    },
-    {
-      "label": "Encouraging Teacher Attendance through Monitoring with Cameras in Rural Udaipur, India",
-      "type": "Article",
-      "description": "This study estimated the effect of financial incentives on teacher attendance on students' attendance and math and language levels. The incentives increased teacher attendance and teaching time, and student test scores rose as a result.\n",
-      "sectors": [
-        "Education"
-      ],
-      "authors": [
-        "Esther Duflo",
-        "Rema Hanna"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/encouraging-teacher-attendance-through-monitoring-cameras-rural-udaipur-india",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/9-udaipur-teacher-attendance-incentives.jpg?itok=O1Vv2hEw",
-      "Location": "Udaipur district, Rajasthan, India",
-      "Sample": "113 Informal Education Centers",
-      "Timeline": "2003 to 2006",
-      "Target Group": [
-        "Primary schools",
-        "Rural population",
-        "Teachers"
-      ],
-      "Outcome of Interest": [
-        "Enrollment and attendance",
-        "Provider attendance",
-        "Student learning"
-      ],
-      "Intervention Type": [
-        "Incentives",
-        "Monitoring"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001226",
-      "Data": "https://www.aeaweb.org/aer/data/june2012/20081207_data.zip",
-      "Research Papers": [
-        "Incentives Work: Getting Teachers to Come to School"
-      ],
-      "Partners": [
-        "http://www.macfdn.org/",
-        "http://www.sevamandir.org/"
-      ]
-    },
-    {
-      "label": "Marketing Effects in a Consumer Credit Market in South Africa (Pricing the Effect of Psychological \"Features\")",
-      "type": "Article",
-      "description": "Working closely with a highly profitable consumer lender in South Africa, researchers sought to determine the effects of advertising content, price, and offer deadlines on loan take up. They found the marketing had significant effects on loan take up, but not on loan amount or default rates. Clients demonstrated the strongest responses to the non-price components of loan offers.\n",
-      "sectors": [
-        "Finance"
-      ],
-      "authors": [
-        "Dean Karlan",
-        "Jonathan Zinman",
-        "Marianne Bertrand",
-        "Sendhil Mullainathan"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/marketing-effects-consumer-credit-market-south-africa-pricing-effect-psychological",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/13-high.jpg?itok=2ADd8wT8",
-      "Fieldwork": "Innovations for Poverty Action (IPA)",
-      "Location": "South Africa",
-      "Sample": "53,194 predominantly urban former clients",
-      "Timeline": "2003 to 2006",
-      "Target Group": [
-        "Urban population"
-      ],
-      "Intervention Type": [
-        "Credit",
-        "Incentives",
-        "Information",
-        "Pricing"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001319",
-      "Data": "https://karlan.yale.edu/p/AdContentWorth_data_public.zip",
-      "Research Papers": [
-        "What's Advertising Content Worth? Evidence from a Consumer Credit Marketing Field Experiment"
-      ],
-      "Partners": [
-        "http://www.creditindemnity.com/"
-      ]
-    },
-    {
-      "label": "Business Education for Microcredit Clients in Peru",
-      "type": "Article",
-      "description": "Researchers worked in Peru to measure the marginal impact of adding business training to a group lending program. The results of this study found business training slightly improved business practices, but had no impact on key business outcomes such as revenue and profit.\n",
-      "sectors": [
-        "Finance",
-        "Gender",
-        "Labor Markets"
-      ],
-      "authors": [
-        "Dean Karlan"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/business-education-microcredit-clients-peru",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/15-high.jpg?itok=YVCL4wkv",
-      "Fieldwork": "Innovations for Poverty Action (IPA)",
-      "Location": "Lima and Ayacucho, Peru",
-      "Sample": "4,591 Clients of FINCA-Peru",
-      "Timeline": "2002 to 2005",
-      "Target Group": [
-        "Women and girls"
-      ],
-      "Intervention Type": [
-        "Business skills training",
-        "Credit",
-        "Training"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001133",
-      "Data": "https://dx.doi.org/10.7910/DVN/27985",
-      "Research Papers": [
-        "Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions"
-      ],
-      "Partners": [
-        "http://www.atinchik.com/",
-        "http://www.gatesfoundation.org/Pages/home.aspx",
-        "http://www.caf.com/",
-        "https://www.povertyactionlab.org/evaluation/business-education-microcredit-clients-peru",
-        "http://www.fordfound.org/",
-        "http://www.freedomfromhunger.org/",
-        "http://www.heniles.org/",
-        "https://www.nsf.gov/",
-        "http://www.pep-net.org/",
-        "http://www.dol.gov/ILAB/"
-      ]
-    },
-    {
-      "label": "Commitment Savings Products in the Philippines",
-      "type": "Article",
-      "description": "Researchers designed and implemented a commitment savings product called a SEED (Save, Earn, Enjoy Deposits) account, which restricted access to savings, thus potentially helping with either self-control or family-control issues. After one year, the commitment savings product led to increased savings and more decision making power in the household for women.\n",
-      "sectors": [
-        "Finance",
-        "Gender",
-        "Labor Markets"
-      ],
-      "authors": [
-        "Dean Karlan",
-        "Nava Ashraf",
-        "Wes Yin"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/commitment-savings-products-philippines",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/16-high.jpg?itok=ulqNJstz",
-      "Fieldwork": "Innovations for Poverty Action (IPA)",
-      "Location": "Butuan City, Mindanao, Philippines",
-      "Sample": "1,777 clients of Green Bank of Caraga",
-      "Timeline": "2000 to 2003",
-      "Target Group": [
-        "Urban population",
-        "Women and girls"
-      ],
-      "Outcome of Interest": [
-        "Empowerment",
-        "Household finance"
-      ],
-      "Intervention Type": [
-        "Commitment devices",
-        "Information",
-        "Savings"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0000045",
-      "Data": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/27854",
-      "Research Papers": [
-        "Tying Odysseus to the Mast: Evidence From a Commitment Savings Product in the Philippines",
-        "Female Empowerment: Impact of a Commitment Savings Product in the Philippines",
-        "Household Decision Making and Savings Impacts: Further Evidence from a Commitment Savings Product in the Philippines"
-      ],
-      "Partners": [
-        "http://www.adb.org/",
-        "http://www.greenbank.com.ph/",
-        "https://www.nsf.gov/",
-        "http://www.russellsage.org/"
-      ]
-    },
-    {
-      "label": "Finding Missing Markets: An Agricultural Brokerage Intervention in Kenya",
-      "type": "Article",
-      "description": "Smallholder Kenyan farmers export more crops with credit and coordination services, but incomes do not significantly improve.\n",
-      "sectors": [
-        "Agriculture",
-        "Finance"
-      ],
-      "authors": [
-        "Dean Karlan",
-        "Nava Ashraf"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/finding-missing-markets-agricultural-brokerage-intervention-kenya",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/17-agricultural-markets-kenya.jpg?itok=SNxWBM87",
-      "Fieldwork": "Innovations for Poverty Action (IPA)",
-      "Location": "Gichugu, division du district de Kirinyaga, Kenya",
-      "Sample": "Over 1,000 farmers in 36 self-help groups",
-      "Timeline": "2003 to 2005",
-      "Target Group": [
-        "Farmers",
-        "Rural population"
-      ],
-      "Outcome of Interest": [
-        "Market access"
-      ],
-      "Intervention Type": [
-        "Credit",
-        "Extension services",
-        "Information",
-        "Training"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001812",
-      "Data": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/PES3RD",
-      "Research Papers": [
-        "Finding Missing Markets (and a Disturbing Epilogue): Evidence from an Export Crop Adoption and Marketing Intervention in Kenya"
-      ],
-      "Partners": [
-        "http://prideafrica.weebly.com/",
-        "http://www.idrc.ca/",
-        "http://www.worldbank.org/"
-      ]
-    },
-    {
-      "label": "Group versus Individual Liability in the Philippines",
-      "type": "Article",
-      "description": "In this study, researchers randomly selected existing group-lending centers to convert to an individual liability model. They found no difference in repayment rates between individuals assigned individual liability and those assigned group liability, no change in overall profitability for the bank, and a reduction in voluntary savings for those removed from joint liability.\r\n",
-      "sectors": [
-        "Finance"
-      ],
-      "authors": [
-        "Dean Karlan"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/group-versus-individual-liability-philippines",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/18-high.jpg?itok=B3rqEx5I",
-      "Fieldwork": "Innovations for Poverty Action (IPA)",
-      "Location": "Island of Leyte (Philippines)",
-      "Sample": "237 Group Lending Centers",
-      "Timeline": "2004 to 2008",
-      "Target Group": [
-        "Rural population"
-      ],
-      "Intervention Type": [
-        "Behavioral economics",
-        "Credit",
-        "Social networks"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001583",
-      "Research Papers": [
-        "Group versus individual liability: Short and long term evidence from Philippine microcredit lending groups"
-      ],
-      "Partners": [
-        "http://www.greenbank.com.ph/",
-        "http://www.worldbank.org/"
-      ]
-    },
-    {
-      "label": "Valuing Trust in Shantytowns in Peru",
-      "type": "Article",
-      "description": "In collaboration with PRISMA, a Peruvian NGO offering credit through village banks, researchers designed and implemented a new loan product, which required new clients to be sponsored by existing clients, to measure the relative importance of social networks and prices for borrowing in shantytowns near Lima. Results demonstrated that borrowers were more likely to obtain sponsorship from friends....",
-      "sectors": [
-        "Finance"
-      ],
-      "authors": [
-        "Dean Karlan"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/valuing-trust-shantytowns-peru",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/19-high.jpg?itok=xayWBlIs",
-      "Fieldwork": "Innovations for Poverty Action (IPA)",
-      "Location": "Shantytowns in Northern Cone of Lima",
-      "Sample": "2 communities with approximately 300 households each",
-      "Timeline": "2005",
-      "Intervention Type": [
-        "Credit",
-        "Pricing",
-        "Social networks"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001240",
-      "Research Papers": [
-        "Measuring Trust in Peruvian Shantytowns"
-      ],
-      "Partners": [
-        "https://www.nsf.gov/",
-        "http://www.prisma.org.pe/",
-        "http://www.russellsage.org/"
-      ]
-    },
-    {
-      "label": "Balwadi Deworming in India",
-      "type": "Article",
-      "description": "This study evaluated the impact of a preschool nutrition and health project that targeted anemia in the slums of Delhi, India on child health and school attendance. Results showed the program positively impacted weight-gain and school attendance, particularly for groups with high base-line rates of anemia.\n",
-      "sectors": [
-        "Education",
-        "Health"
-      ],
-      "authors": [
-        "Edward Miguel"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/balwadi-deworming-india",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/23-high_0.jpg?itok=NWApkLsY",
-      "Location": "Slums of Delhi, India",
-      "Sample": "200 preschools with 2,392 children, aged 2-6 years old",
-      "Timeline": "2001 to 2002",
-      "Target Group": [
-        "Primary schools",
-        "Students"
-      ],
-      "Outcome of Interest": [
-        "Anemia",
-        "Enrollment and attendance"
-      ],
-      "Intervention Type": [
-        "Deworming"
-      ],
-      "AEA RCT Registration Number": "AEARCTR-0001157",
-      "Research Papers": [
-        "Anemia and School Participation"
-      ],
-      "Partners": [
-        "http://www.healthresearchforaction.org/",
-        "http://www.icicibank.com/",
-        "http://www.pratham.org/",
-        "http://www.worldbank.org/"
-      ]
-    },
-    {
-      "label": "Flipcharts, School Inputs and Retrospective versus Prospective Analyses in Kenya",
-      "type": "Article",
-      "description": "Evidence from Kenyan primary schools suggests that retrospective studies may seriously overestimate the impact of school inputs such as visual flipcharts on learning.\r\r\n",
-      "sectors": [
-        "Education"
-      ],
-      "authors": [
-        "Michael Kremer",
-        "Paul Glewwe"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/flipcharts-school-inputs-and-retrospective-versus-prospective-analyses-kenya",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/26_2.jpg?itok=XOSI1D7q",
-      "Fieldwork": "Innovations for Poverty Action (IPA)",
-      "Location": "Districts de Busia et Teso, Kenya occidental",
-      "Sample": "178 primary schools",
-      "Timeline": "1996 to 1998",
-      "Target Group": [
-        "Children",
-        "Primary schools",
-        "Rural population",
-        "Students"
-      ],
-      "Outcome of Interest": [
-        "Student learning"
-      ],
-      "Research Papers": [
-        "Retrospective vs. prospective analyses of school inputs: the case of flip charts in Kenya"
-      ],
-      "Partners": [
-        "http://icsafrica.org/",
-        "https://www.nsf.gov/",
-        "http://www.worldbank.org/"
-      ]
-    },
-    {
-      "label": "Vouchers for Private Schooling in Colombia",
-      "type": "Article",
-      "description": "Colombia used lotteries to distribute vouchers which partially covered the cost of private secondary school for students who maintained satisfactory academic progress. Three years after the lotteries, winners were about 10 percentage points more likely to have finished 8th grade, primarily because they were less likely to repeat grades, and scored 0.2 standard deviations higher on achievement...",
-      "sectors": [
-        "Education"
-      ],
-      "authors": [
-        "Eric Bettinger",
-        "Michael Kremer"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/vouchers-private-schooling-colombia",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/27-high.jpg?itok=iZzKFVLR",
-      "Location": "Colombia",
-      "Sample": "1,600 applicants to school voucher program",
-      "Timeline": "1998 to 2004",
-      "Target Group": [
-        "Secondary schools",
-        "Students",
-        "Urban population"
-      ],
-      "Outcome of Interest": [
-        "Earnings and income",
-        "Enrollment and attendance",
-        "Student learning"
-      ],
-      "Intervention Type": [
-        "School choice"
-      ],
-      "Data": "https://hdl.handle.net/1902.1/11298",
-      "Research Papers": [
-        "Are Educational Vouchers Only Redistributive?"
-      ],
-      "Partners": [
-        "https://www.povertyactionlab.org/evaluation/vouchers-private-schooling-colombia"
-      ]
-    },
-    {
-      "label": "Peer Effects, Alcohol, and College Roommates in the United States",
-      "type": "Article",
-      "description": "Male college students are significantly influenced by their dorm roommate’s drinking behavior in the United States.\n",
-      "sectors": [
-        "Education",
-        "Health"
-      ],
-      "authors": [
-        "Dan Levy",
-        "Michael Kremer"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/peer-effects-alcohol-and-college-roommates-united-states",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/28-high.jpg?itok=QeoWLbWl",
-      "Location": "A large, academically strong state university in the United States",
-      "Sample": "1,357 undergraduate students",
-      "Timeline": "1997 to 1999",
-      "AEA RCT Registration Number": "AEARCTR-0001062",
-      "Research Papers": [
-        "Peer Effects and Alcohol Use Among College Students"
-      ],
-      "Partners": [
-        "http://www.macfdn.org/",
-        "http://www.jcpr.org/"
-      ]
-    },
-    {
-      "label": "Peer Effects, Diversity, and College Roommates in the United States",
-      "type": "Article",
-      "description": "College students in the United States become more empathetic towards the social groups to which their roommates belong.\n",
-      "sectors": [
-        "Crime, Violence, & Conflict",
-        "Education"
-      ],
-      "authors": [
-        "Dan Levy",
-        "Michael Kremer"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/peer-effects-diversity-and-college-roommates-united-states",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/29-high.jpg?itok=XivHNPMZ",
-      "Location": "A large, academically strong state university in the United States",
-      "Sample": "1,278 undergraduate students",
-      "Timeline": "1997 to 2003",
-      "Target Group": [
-        "Higher education and universities",
-        "Students"
-      ],
-      "Outcome of Interest": [
-        "Discrimination"
-      ],
-      "Research Papers": [
-        "Empathy or Antipathy? The Impact of Diversity"
-      ],
-      "Partners": [
-        "http://www.macfdn.org/",
-        "https://www.nih.gov/",
-        "http://www.wtgrantfoundation.org/"
-      ]
-    },
-    {
-      "label": "Teacher Incentives Based on Students' Test Scores in Kenya",
-      "type": "Article",
-      "description": "Teacher incentives based on student performance result in “teaching the test,” and do not appear to produce long term positive educational outcomes in Kenya.\n",
-      "sectors": [
-        "Education"
-      ],
-      "authors": [
-        "Michael Kremer",
-        "Paul Glewwe"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/teacher-incentives-based-students-test-scores-kenya",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/30-high.jpg?itok=U0an9e4G",
-      "Fieldwork": "ICS Africa",
-      "Location": "Busia and Teso Districts, Western Kenya",
-      "Sample": "50 primary schools",
-      "Timeline": "1996 to 2000",
-      "Target Group": [
-        "Primary schools",
-        "Rural population",
-        "Teachers"
-      ],
-      "Outcome of Interest": [
-        "Provider attendance",
-        "Provider performance",
-        "Student learning"
-      ],
-      "Intervention Type": [
-        "Incentives"
-      ],
-      "Data": "http://www.aeaweb.org/aej/app/data/2008-0221_data.zip",
-      "Research Papers": [
-        "Teacher Incentives"
-      ],
-      "Partners": [
-        "http://icsafrica.org/",
-        "http://www.macfdn.org/",
-        "http://www.worldbank.org/"
-      ]
-    },
-    {
-      "label": "Decentralization: A Cautionary Tale - Public Finance in Kenya",
-      "type": "Article",
-      "description": "",
-      "sectors": [
-        "Education",
-        "Political Economy & Governance"
-      ],
-      "authors": [
-        "Michael Kremer"
-      ],
-      "link": "https://www.povertyactionlab.org/evaluation/decentralization-cautionary-tale-public-finance-kenya",
-      "image": "https://www.povertyactionlab.org/sites/default/files/styles/square_thumbnail/public/31-high.jpg?itok=KxwGh-fm",
-      "Fieldwork": "ICS Africa",
-      "Location": "Western Province, Kenya",
-      "Timeline": "1995 to 2000",
-      "Research Papers": [
-        "Decentralization: A Cautionary Tale"
-      ],
-      "Partners": [
-        "http://icsafrica.org/"
-      ]
-    }
-  ],
-  "authors": [
-    {
-      "label": "Rebecca Thornton",
-      "link": "https://www.povertyactionlab.org/thornton"
-    },
-    {
-      "label": "Erica Field",
-      "link": "https://www.povertyactionlab.org/field"
-    },
-    {
-      "label": "Edward Miguel",
-      "link": "https://www.povertyactionlab.org/miguel"
-    },
-    {
-      "label": "Michael Kremer",
-      "link": "https://www.povertyactionlab.org/kremer"
-    },
-    {
-      "label": "Abhijit Banerjee",
-      "link": "https://www.povertyactionlab.org/banerjee"
-    },
-    {
-      "label": "Shawn Cole",
-      "link": "https://www.povertyactionlab.org/cole"
-    },
-    {
-      "label": "Esther Duflo",
-      "link": "https://www.povertyactionlab.org/duflo"
-    },
-    {
-      "label": "Leigh Linden",
-      "link": "https://www.povertyactionlab.org/linden"
-    },
-    {
-      "label": "Marianne Bertrand",
-      "link": "https://www.povertyactionlab.org/bertrand"
-    },
-    {
-      "label": "Sendhil Mullainathan",
-      "link": "https://www.povertyactionlab.org/mullainathan"
-    },
-    {
-      "label": "Pascaline Dupas",
-      "link": "https://www.povertyactionlab.org/dupas"
-    },
-    {
-      "label": "Rema Hanna",
-      "link": "https://www.povertyactionlab.org/hanna"
-    },
-    {
-      "label": "Dean Karlan",
-      "link": "https://www.povertyactionlab.org/karlan"
-    },
-    {
-      "label": "Jonathan Zinman",
-      "link": "https://www.povertyactionlab.org/zinman"
-    },
-    {
-      "label": "Nava Ashraf",
-      "link": "https://www.povertyactionlab.org/ashraf"
-    },
-    {
-      "label": "Wes Yin",
-      "link": "https://www.povertyactionlab.org/yin"
-    },
-    {
-      "label": "Paul Glewwe",
-      "link": "https://www.povertyactionlab.org/glewwe"
-    },
-    {
-      "label": "Eric Bettinger",
-      "link": "https://www.povertyactionlab.org/bettinger"
-    },
-    {
-      "label": "Dan Levy",
-      "link": "https://www.povertyactionlab.org/levy"
-    }
-  ]
-}
+[
+  {
+    "label": "Rebecca Thornton",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/thornton",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Rebecca-Thornton_0.gif",
+    "website": "https://rebeccathornton.net/",
+    "curriculum vitae": "https://docs.google.com/a/illinois.edu/viewer?a=v&pid=sites&srcid=aWxsaW5vaXMuZWR1fHJlYmVjY2EtdGhvcm50b258Z3g6MjkzYmJkMzFhNDkzODBhMw",
+    "email": "rebeccat@illinois.edu ",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Associate Professor",
+    "organization": "University of Illinois",
+    "description": "Rebecca Thornton began her appointment as an Associate Professor at the University of Illinois at Urbana-Chamaign economics department in 2015. Her research focuses on education and health as well as how individuals respond to financial incentives in these areas. She has worked on a randomized evaluation of a merit-based scholarship in Kenya. She is also working on randomized evaluations examining HIV testing and prevention and menstruation and education in Nepal."
+  },
+  {
+    "label": "Erica Field",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/field",
+    "image": "https://www.povertyactionlab.org/sites/default/files/erica-field-200x300.jpg",
+    "website": "https://sites.duke.edu/ericafield/",
+    "curriculum vitae": "https://fds.duke.edu/db/aas/Economics/faculty/emf23/files/CV.pdf",
+    "email": "emf23@duke.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Professor of Economics and Global Health",
+    "organization": "Duke University",
+    "description": "Erica Field is a Professor of Economics and Global Health at Duke University. Prior to joining the Department of Economics in 2005, she worked at The Institute for Quantitative Social Science as a Cohort X Robert Wood Johnson Scholar in Health Policy Research. Erica's primary fields of interest are development and labor economics, with a regional focus on Latin America. Her past research has examined the household welfare effects of urban land titling programs in developing countries, including the impact of tenure security on labor supply, credit access and fertility. Her current research examines the link between health investments and economic mobility."
+  },
+  {
+    "label": "Edward Miguel",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/miguel",
+    "image": "https://www.povertyactionlab.org/sites/default/files/mcleod-27-240.jpg",
+    "website": "https://eml.berkeley.edu/~emiguel/",
+    "curriculum vitae": "http://emiguel.econ.berkeley.edu/assets/miguel_biography/1/miguel_cv.pdf",
+    "email": "emiguel@econ.berkeley.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Oxfam Professor of Environmental and Resource Economics",
+    "organization": "University of California, Berkeley",
+    "description": "Edward Miguel is the Oxfam Professor of Environmental and Resource Economics at the University of California at Berkeley. His work focuses on the provision and the impact of public goods to the poor in sub-Saharan Africa, notably in Kenya and Tanzania. He has conducted a randomized evaluation of a deworming program in Kenya and of a nutrition supplement program aimed at pre-primary school children in India."
+  },
+  {
+    "label": "Michael Kremer",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/kremer",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Michael-Kremer.gif",
+    "website": "http://scholar.harvard.edu/kremer",
+    "curriculum vitae": "https://scholar.harvard.edu/files/kremer/files/kremer_cv_2017.07.18a_to_post.pdf",
+    "email": "mkremer@fas.harvard.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Gates Professor of Developing Societies",
+    "organization": "Harvard University",
+    "description": "Michael Kremer is the Gates Professor of Developing Societies in the Department of Economics at Harvard University. He was named a Young Global Leader by the World Economic Forum. His recent research examines education and health in developing countries, immigration, and globalization."
+  },
+  {
+    "label": "Abhijit Banerjee",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/banerjee",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Abhiit%20Banerjee_P.jpg",
+    "website": "http://economics.mit.edu/faculty/banerjee/index.htm",
+    "curriculum vitae": "http://economics.mit.edu/faculty/banerjee/cv",
+    "email": "banerjee@mit.edu",
+    "j-pal roles": [
+      "Director,\n              J-PAL"
+    ],
+    "title": "Ford Foundation International Professor of Economics",
+    "organization": "Massachusetts Institute of Technology",
+    "description": "Abhijit Vinayak Banerjee was educated at the University of Calcutta, Jawaharlal Nehru University and Harvard University, where he received his Ph.D in 1988. He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology. In 2003 he founded the Abdul Latif Jameel Poverty Action Lab (J-PAL), along with Esther Duflo and Sendhil Mullainathan and remains one of the directors of the lab. In 2009 J-PAL won the BBVA Foundation \"Frontier of Knowledge\" award in the development cooperation category. Banerjee is a past president of the Bureau for the Research in the Economic Analysis of Development, a Research Associate of the NBER, a CEPR research fellow, International Research Fellow of the Kiel Institute, a fellow of the American Academy of Arts and Sciences and the Econometric Society and has been a Guggenheim Fellow and an Alfred P. Sloan Fellow. J-PAL received the inaugural BBVA Frontiers of Knowledge Award for world-class research, and Professor Banerjee received the Infosys Prize 2009 in Social Sciences and Economics. In 2011, he was named one of Foreign Policy magazine's top 100 global thinkers. His areas of research are development economics and economic theory. Banerjee is a member of J-PAL's Executive Committee and previously served as co-chair of J-PAL’s Education Sector.\n\nHe is the author of a large number of articles and three books, including Poor Economics which won the Goldman Sachs Business Book of the Year. He is the editor of a fourth book, and he finished his first documentary film, \"The Name of the Disease,\" in 2006. Most recently, Banerjee served on the U.N. Secretary-General’s High-level Panel of Eminent Persons on the Post-2015 Development Agenda."
+  },
+  {
+    "label": "Shawn Cole",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/cole",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Shawn%20Cole_P.jpg",
+    "website": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=340064",
+    "curriculum vitae": "http://www.hbs.edu/faculty/Profile%20Files/cole-cv-2017-01-web_76042541-72ae-4e86-b407-f0643512735e.pdf",
+    "email": "scole@hbs.edu",
+    "j-pal roles": [
+      "Co-Chair,\n              Research, Education, and Training",
+      "Affiliated Professor"
+    ],
+    "title": "John G. McLean Professor of Business Administration",
+    "organization": "Harvard Business School",
+    "description": "Shawn Cole is the John G McLean Professor of Business Administration at Harvard Business School. His research examines agriculture, corporate finance, banking, and consumer finance in developing countries. He has conducted randomized evaluations in education, financial literacy, agricultural risk management, and ICT for agriculture.\n\nContinue reading\n\nWhat got you interested in development economics, and particularly in financial issues?\n\nWhen I was about 21 years old, trying to decide on a career, I asked myself “What is the most important problem facing humanity?” and decided global poverty reduction was likely very high on the list. My interest in financial topics originated from work with my advisors at graduate school, Esther Duflo and Abhijit Banerjee. Financial products are particularly well suited for testing a wide variety of aspects of economic theory.\n\nWhat is one current research project that you're particularly excited about?\n\nNilesh Fernando, Michael Kremer and I are working to study and scale up mobile-phone based agricultural advisory services.\n\nWhat is your \"dream evaluation\"? (It doesn't have to be feasible!)\n\nI would love to see a series of experiments evaluating changes in monetary policy—it’s a very important tool for government, but one whose effects are not well understood.\n\nWhat is your most memorable story from the field?\n\nI have very fond memories of work I did with Pratham, an educational NGO in Mumbai focused on improving primary school education. The chance to work at length with the staff, on a project that would ultimately turn out to be important, was quite rewarding.\n\nAny other project/news/hopes you'd like to share with us?\n\nI’m particularly excited about the scope for greater integration of analytics and evaluation in the provision of digital services to low-income populations."
+  },
+  {
+    "label": "Esther Duflo",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/duflo",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Esther%20Duflo_P.jpg",
+    "website": "http://economics.mit.edu/faculty/eduflo/index.htm",
+    "curriculum vitae": "https://economics.mit.edu/faculty/eduflo/cv",
+    "email": "eduflo@mit.edu",
+    "j-pal roles": [
+      "Director,\n              J-PAL",
+      "Scientific Director,\n              J-PAL South Asia"
+    ],
+    "title": "Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics",
+    "organization": "Massachusetts Institute of Technology (MIT)",
+    "description": "Esther Duflo is the Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics in the Department of Economics at the Massachusetts Institute of Technology and a co-founder and co-director of the Abdul Latif Jameel Poverty Action Lab (J-PAL). In her research, she seeks to understand the economic lives of the poor, with the aim to help design and evaluate social policies. She has worked on health, education, financial inclusion, environment and governance.\n\nProfessor Esther Duflo’s first degrees were in history and economics from Ecole Normale Superieure, Paris. She subsequently received a Ph.D. in Economics from MIT in 1999.\n\nDuflo has received numerous academic honors and prizes including the Princess of Asturias Award for Social Sciences (2015), the A.SK Social Science Award (2015), Infosys Prize (2014), the David N. Kershaw Award (2011), a John Bates Clark Medal (2010), and a MacArthur “Genius Grant” Fellowship (2009). With Abhijit Banerjee, she wrote Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty, which won the Financial Times and Goldman Sachs Business Book of the Year Award in 2011 and has been translated into 17 languages.\n\nDuflo is the Editor of the American Economic Review, a member of the National Academy of Sciences and a Corresponding Fellow of the British Academy."
+  },
+  {
+    "label": "Leigh Linden",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/linden",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Leigh-L.-Linden.gif",
+    "website": "http://liberalarts.utexas.edu/depts/economics/faculty/linden",
+    "curriculum vitae": "https://liberalarts.utexas.edu/ffiles/linden/nqOonaqWsQ",
+    "email": "leigh.linden@austin.utexas.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Associate Professor of Economics",
+    "organization": "University of Texas at Austin",
+    "description": "Leigh Linden is an Associate Professor in the Department of Economics at the University of Texas at Austin. His research focuses on the ability of social services to improve the well being of children, especially in impoverished areas."
+  },
+  {
+    "label": "Marianne Bertrand",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/bertrand",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Marianne-Bertrand_0.gif",
+    "website": "http://faculty.chicagobooth.edu/marianne.bertrand/",
+    "curriculum vitae": "http://faculty.chicagobooth.edu/marianne.bertrand/vitae/CV.pdf",
+    "email": "marianne.bertrand@ChicagoBooth.edu",
+    "j-pal roles": [
+      "Co-Chair,\n              J-PAL's Labor Markets sector"
+    ],
+    "title": "Chris P. Dialynas Professor of Economics",
+    "organization": "University of Chicago Booth School of Business",
+    "description": "Marianne Bertrand is a Professor of Economics at the University of Chicago Graduate School of Business. Her research focuses on racial bias in the US, affirmative action for disadvantaged castes in India, and corruption in India.\n\nMarianne earned her PhD in economics from Harvard University."
+  },
+  {
+    "label": "Sendhil Mullainathan",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/mullainathan",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Sendhil%20Mullainathan.jpg",
+    "website": "http://scholar.harvard.edu/sendhil",
+    "curriculum vitae": "http://scholar.harvard.edu/files/sendhil/files/mullainathan_2017_february.pdf",
+    "email": "mullain@fas.harvard.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Robert C. Waggoner Professor of Economics",
+    "organization": "Harvard University",
+    "description": "Sendhil Mullainathan is the Robert C. Waggoner Professor of Economics in the Faculty of Arts and Sciences at Harvard University. He is the recipient of a MacArthur \"genius\" award and has conducted a randomized evaluation of racial bias in hiring in the US. He has also examined the impact of cash transfers to the elderly in South Africa."
+  },
+  {
+    "label": "Pascaline Dupas",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/dupas",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Pascaline%20Dupas_P.jpg",
+    "website": "https://web.stanford.edu/~pdupas/",
+    "curriculum vitae": "http://web.stanford.edu/~pdupas/Dupas_CV.pdf",
+    "email": "pdupas@stanford.edu",
+    "j-pal roles": [
+      "Co-Chair,\n              J-PAL's Health sector"
+    ],
+    "title": "Associate Professor",
+    "organization": "Stanford University",
+    "description": "Pascaline Dupas is an Associate Professor in the Economics Department at Stanford University. Dupas' areas of research are applied microeconomics and development economics. She is currently conducting field experiments in health, education, and microfinance. Pascaline is a Co-Chair of J-PAL's Health sector.\n\nPascaline earned her PhD from EHESS and PSE-DELTA in France."
+  },
+  {
+    "label": "Rema Hanna",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/hanna",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Rema-Hanna.jpg",
+    "website": "https://scholar.harvard.edu/remahanna/home",
+    "curriculum vitae": "https://scholar.harvard.edu/files/remahanna/files/20170918cv_hanna.pdf",
+    "email": "Rema_Hanna@ksg.harvard.edu",
+    "j-pal roles": [
+      "Scientific Director,\n              J-PAL Southeast Asia"
+    ],
+    "title": "Jeffrey Cheah Professor of South-East Asia Studies",
+    "organization": "Harvard Kennedy School of Government ",
+    "description": "Rema Hanna is the Jeffrey Cheah Professor of South East Asia Studies and a Co-Director of the Evidence for Policy Design (EPoD) research program at the Center for International Development, Harvard University. In addition, she’s the Scientific Director for Southeast Asia at the Abdul Latif Jameel Poverty Action Lab (J-PAL), a Research Associate with the National Bureau of Economic Research (NBER), an affiliate of the Bureau for Research and Economic Analysis of Development (BREAD), and a faculty affiliate at the Harvard Center for Population and Development Studies. Professor Hanna is particularly interested in understanding how to make government services “work” for the poor in developing countries. She has worked on large-scale field projects with governments and non-profits to understand how to improve safety net systems, reduce bureaucratic absenteeism, and reduce corruption.\n\nProfessor Hanna holds a PhD in Economics from MIT and a BS in Public Policy from Cornell University. Prior to joining the Kennedy School, she was a faculty member at New York University."
+  },
+  {
+    "label": "Dean Karlan",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/karlan",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Dean-Karlan.gif",
+    "website": "http://www.kellogg.northwestern.edu/",
+    "curriculum vitae": "http://www.kellogg.northwestern.edu/faculty/directory/karlan_dean.aspx#vita",
+    "email": "dean.karlan@kellogg.northwestern.edu",
+    "j-pal roles": [
+      "Chair,\n              J-PAL's Finance sector"
+    ],
+    "title": "Professor of Economics and Finance",
+    "organization": "Northwestern University",
+    "description": "Dean Karlan is a Professor of Economics and Finance at Northwestern University, and President and Founder of Innovations for Poverty Action, a non-profit organization dedicated to discovering and promoting solutions to global poverty problems, and working to scale-up successful ideas through implementation and dissemination to policymakers, practitioners, investors and donors.\n\nHis research focuses on microeconomic issues of poverty, typically employing experimental methodologies and behavioral economics insights to examine what works, what does not, and why in interventions in sustainable income generation for those in poverty, household and entrepreneurial finance, health behavior, and charitable giving. Dean is on the Executive Committee of the Board of Directors of J-PAL. In 2011, he co-authored More Than Good Intentions: How a New Economics is Helping to Solve Global Poverty and in 2016 he co-authored Failing in the Field. Previously, Dean was the Samuel C Park, Jr Professor of Economics at Yale University, and Assistant Professor of Economics at Princeton University.\n\nDean received a PhD in Economics from MIT, an MBA and an MPP from the University of Chicago, and a BA in International Affairs from the University of Virginia."
+  },
+  {
+    "label": "Jonathan Zinman",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/zinman",
+    "image": "https://www.povertyactionlab.org/sites/default/files/JZweb.jpg",
+    "website": "https://www.dartmouth.edu/~jzinman/",
+    "curriculum vitae": "https://www.dartmouth.edu/~jzinman/Papers/zinman_cv.pdf",
+    "email": "jzinman@dartmouth.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Professor of Economics",
+    "organization": "Dartmouth College",
+    "description": "Jonathan Zinman is a tenured Professor of Economics at Dartmouth College. He joined the faculty in 2005 after working as a researcher at the Federal Reserve Bank of New York. Professor Zinman obtained his PhD in economics from the Massachusetts Institute of Technology in 2002, and a B.A. in government from Harvard in 1993. In addition to his work at Dartmouth, Professor Zinman also serves as a Visiting Scholar at the Federal Reserve Bank of Philadelphia, a member of the Behavioral Finance Forum, a research associate of Innovations for Poverty Action and J-PAL, a Research Advisory Board member of stickk.com, and a member of the new Sage/Sloan Foundations working group on Behavioral Economics and the Regulation of Retail Financial Markets. Professor Zinman’s research focuses on intertemporal choice and household finance. His work tests economic theories of how firms and consumers interact in markets, and closely examines the merits of incorporating specific features of psychology into economic models. He also works on methodological questions, developing randomized-control field experiments and survey designs that permit clean tests of economic theories and related policy questions. He has papers published or forthcoming in several top journals in economics and finance, and his work has been featured extensively in popular and trade media as well. Professor Zinman applies his research by working with policymakers and financial institutions around the globe. He works directly with institutions to develop and test and innovations throughout the retail space— in pricing, product development, marketing, risk assessment, risk management, and client communication-- that are profitable for firms and beneficial to their clients."
+  },
+  {
+    "label": "Nava Ashraf",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/ashraf",
+    "image": "https://www.povertyactionlab.org/sites/default/files/nava-ashraf.jpg",
+    "website": "https://ashrafnava.wordpress.com/",
+    "curriculum vitae": "https://ashrafnava.files.wordpress.com/2017/09/ashraf_cv_july2017.pdf",
+    "email": "n.ashraf1@lse.ac.uk",
+    "j-pal roles": [],
+    "title": "Professor of Economics",
+    "organization": "London School of Economics and Political Science",
+    "description": "Nava Ashraf is a Professor of Economics at the London School of Economics and Political Science. She applies insights from psychology and economics to understand decision making, with the aim of improving the design of development programs. Her research has focused on technology adoption, intra-household decision making, and employee motivation, with applications in health, agriculture, and micro-finance. Her most recent field experiments in Zambia have evaluated the role of pricing and intra-household barriers in the adoption of health practices and have designed incentives for innovative health services delivery. Her research has been published in the American Economic Review, the Quarterly Journal of Economics, and the Journal of Economic Perspectives.\n\nNava earned her PhD from Harvard University."
+  },
+  {
+    "label": "Wes Yin",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/yin",
+    "image": "https://www.povertyactionlab.org/sites/default/files/wes-yin.jpg",
+    "website": "https://luskin.ucla.edu/person/wes-yin/",
+    "curriculum vitae": "https://luskin.ucla.edu/sites/default/files/cv-pdfs/YinWes_CV_201401.pdf",
+    "email": "wyin@ucla.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Associate Professor",
+    "organization": "University of California, Los Angeles",
+    "description": "Wes Yin is an associate professor of public policy and management at the University of California, Los Angeles. His research interests are in the areas of health, economic development, industrial organizations, and public finance. His current research studies the relationship between economic growth and the formation of private markets, and how information, income, and competitive forces impact the delivery of health care in developed and developing countries.\n\nWes has served as Acting Assistant Secretary of Economic Policy at the Department of Treasury and as a Senior Economist in the White House Council of Economic Advisors. He received a BA in mathematics and a BS in economics from the University of Maryland, College Park, and an MA and PhD in economics from Princeton University."
+  },
+  {
+    "label": "Paul Glewwe",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/glewwe",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Paul%20Glewwe.jpg",
+    "website": "https://www.apec.umn.edu/people/paul-glewwe",
+    "curriculum vitae": "https://www.apec.umn.edu/sites/apec.umn.edu/files/paul-glewwe-cv.pdf",
+    "email": "pglewwe@umn.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Professor of Applied Economics",
+    "organization": "University of Minnesota",
+    "description": "Paul Glewwe is a Professor of Applied Economics at the University of Minnesota and the current Director of the Center for International Food and Agricultural Policy. His interests are economics of education, poverty and inequality in developing countries, and applied econometrics. Since receiving his Ph.D., he has worked in the following countries: Cambodia, China, Cote d'Ivoire, Ghana, Honduras, Jamaica, Jordan, Kenya, Laos, Malaysia, Morocco, Philippines, Sri Lanka, Turkey and Viet Nam. His recent publications have appeared in the Handbook of the Economics of Education, Economic Development and Cultural Change, Journal of Development Economics, Journal of Economic Literature, Journal of Human Resources, Journal of Public Economics and World Bank Economic Review. Glewwe served on J-PAL’s Board as co-chair of the Education Sector from 2010-2014."
+  },
+  {
+    "label": "Eric Bettinger",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/bettinger",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Eric_Bettinger.jpg",
+    "website": "https://sites.google.com/site/ericbettinger/",
+    "curriculum vitae": "https://sites.google.com/site/ericbettinger/curriculum-vitae",
+    "email": "ebettinger@stanford.edu",
+    "j-pal roles": [],
+    "title": "Associate Professor of Economics of Education",
+    "organization": "Stanford Graduate School of Education",
+    "description": "Eric Bettinger is an Associate Professor in the Stanford University Graduate School of Education. His research interests include the economics of education; student success and completion in college; teacher characteristics and student success in college; and the effects of voucher programs on both academic and non-academic outcomes. Eric is also studying which factors determine student success in college. Eric's work aims to improve the understanding of these cause-and-effect relationships in higher education. His most recent work focuses on the effects of FAFSA simplification on students' collegiate outcomes.\n\nEric received a PhD in economics from the Massachusetts Institute of Technology."
+  },
+  {
+    "label": "Dan Levy",
+    "element type": "Author",
+    "link": "https://www.povertyactionlab.org/levy",
+    "image": "https://www.povertyactionlab.org/sites/default/files/Dan-Levy.gif",
+    "website": "https://www.hks.harvard.edu/faculty/dan-levy",
+    "curriculum vitae": "https://www.hks.harvard.edu/faculty/dan-levy",
+    "email": "dan_levy@harvard.edu",
+    "j-pal roles": [
+      "Affiliated Professor"
+    ],
+    "title": "Senior Lecturer in Public Policy",
+    "organization": "Harvard Kennedy School of Government",
+    "description": "Dan Levy is a Senior Lecturer in Public Policy at Harvard University's John F. Kennedy School of Government and the Director of Training of the Abdul Latif Jameel Poverty Action Lab. He is currently involved in evaluations of a conditional cash transfer program in Jamaica and a set of education interventions in Burkina Faso. He also provides technical assistance and training to Mexico's Social Development Ministry on impact evaluations of social programs."
+  }
+]

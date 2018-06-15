@@ -56,7 +56,7 @@ async function scrapePages() {
 
         let element = {
           'label': label.textContent,
-          'type': 'Article',
+          'element type': 'Article',
           'description': description.textContent,
           'sectors': [],
           'authors': [],
@@ -72,6 +72,7 @@ async function scrapePages() {
           element.authors.push(node.textContent);
           let obj = {
             'label': node.textContent,
+            'element type': 'Author',
             'link': node.href
           };
           if(authors.findIndex(author => author.link === obj.link) === -1) {
@@ -106,7 +107,6 @@ async function scrapePages() {
 
     let thisData = await page2.evaluate(data => {
       let nodes = document.querySelectorAll('.evaluation-details strong');
-      let names = [], values = [];
       let specialNames = ['data', 'partners', 'outcome of interest', 'target group', 'intervention type', 'research papers'];
       nodes.forEach(node => {
         let name = node.textContent.replace(/(\:\s$|\:$)/, '');
@@ -143,7 +143,7 @@ async function scrapePages() {
             value.push(node.textContent);
           });
         }
-        data[name] = value;
+        data[name.toLowerCase()] = value;
       });
 
       return data;
@@ -164,10 +164,45 @@ async function scrapePages() {
   console.log(data.authors.length + ' authors to scrape');
 
   for(i = 0; i < data.authors.length; i++) {
-    //scrape author data;
+    console.log(data.authors.length - i);
+    let page2 = await browser.newPage();
+    await page2.goto(data.authors[i].link);
+
+    let thisData = await page2.evaluate(data => {
+      data.image = document.querySelector('.group-side .field-name-field-photo img').src;
+      data.website = document.querySelector('.group-side .field-name-field-homepage a').href;
+      data['curriculum vitae'] = document.querySelector('.group-side .field-name-field-cv-link a').href;
+      data.email = document.querySelector('.group-side .field-email a').textContent;
+
+      let jpalRoles = [];
+      let nodes = document.querySelectorAll('.jpal-role');
+      nodes.forEach(node => {
+        let value = node.textContent.replace(/^\s+/g, '').replace(/\s+$/g, '').replace(/\s+/g,'\s');
+        jpalRoles.push(value);
+      });
+      data['j-pal roles'] = jpalRoles;
+
+      data.title = document.querySelector('.jpal-roles span:first-of-type').textContent;
+      data.organization = document.querySelector('.jpal-roles span:last-of-type').textContent;
+
+      let description = '';
+      nodes = document.querySelectorAll('.group-main p');
+      nodes.forEach(node => {
+        description += node.textContent + '\n\n';
+      });
+      data.description = description.replace(/^\s+/g, '').replace(/\s+$/g, '').replace(/\n{3,}/g,'\n\n');
+
+      return data;
+    }, {});
+
+    let theseNames = Object.keys(thisData);
+    theseNames.forEach(name => {
+      data.authors[i][name] = thisData[name];
+    });
+    await page2.close();
   }
 
-  let log = data;
+  let log = data.authors;
 
   fs.writeFile('jpal.json', JSON.stringify(log, null, 2), (err) => {
     if (err) throw err;
